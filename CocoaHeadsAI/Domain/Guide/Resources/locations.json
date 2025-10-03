@@ -1,0 +1,404 @@
+{
+    "items": [
+        {
+            "name": "Museum für Kunst und Gewerbe",
+            "adresse": "Steintorplatz, 20099 Hamburg",
+            "beschreibung": "Museum mit Design, Kunsthandwerk, Fotografie und Mode"
+        },
+        {
+            "name": "Cap San Diego",
+            "adresse": "Überseebrücke, 20459 Hamburg",
+            "beschreibung": "Ehemaliges Frachtschiff, heute Museumsschiff und Eventlocation"
+        },
+        {
+            "name": "Rickmer Rickmers",
+            "adresse": "Bei den St. Pauli Landungsbrücken, 20359 Hamburg",
+            "beschreibung": "Historisches Segelschiff, Museum und Wahrzeichen am Hafen"
+        },
+        {
+            "name": "BallinStadt Auswanderermuseum",
+            "adresse": "Veddeler Bogen 2, 20539 Hamburg",
+            "beschreibung": "Museum zur Geschichte von Auswanderung und Migration"
+        },
+        {
+            "name": "Museumshafen Oevelgönne",
+            "adresse": "Neumühlen 3, 22763 Hamburg",
+            "beschreibung": "Historische Schiffe und Hafenanlagen am Elbufer"
+        },
+        {
+            "name": "Fischmarkt Altona",
+            "adresse": "Große Elbstraße, 22767 Hamburg",
+            "beschreibung": "Bekannter Wochenmarkt mit Fischständen, Blumen und Trubel"
+        },
+        {
+            "name": "Jenischpark & Jenisch-Haus",
+            "adresse": "Baron-Voght-Straße 50, 22609 Hamburg",
+            "beschreibung": "Landschaftspark mit klassizistischem Herrenhausmuseum"
+        },
+        {
+            "name": "Altonaer Museum",
+            "adresse": "Museumstraße 23, 22765 Hamburg",
+            "beschreibung": "Museum für norddeutsche Kultur- und Stadtgeschichte"
+        },
+        {
+            "name": "Museum der Arbeit",
+            "adresse": "Wiesendamm 3, 22305 Hamburg",
+            "beschreibung": "Industrie- und Sozialgeschichte der Arbeitswelt"
+        },
+        {
+            "name": "Bucerius Kunst Forum",
+            "adresse": "Rathausmarkt 2, 20095 Hamburg",
+            "beschreibung": "Ausstellungshaus für internationale Kunst und Kultur"
+        },
+        {
+            "name": "Krameramtsstuben",
+            "adresse": "Krayenkamp 10, 20459 Hamburg",
+            "beschreibung": "Erhaltene historische Fachwerkhäuser aus dem 17. Jahrhundert"
+        },
+        {
+            "name": "Tropenhaus im Botanischen Garten",
+            "adresse": "Ohnhorststraße, 22609 Hamburg",
+            "beschreibung": "Tropische Pflanzenwelt in Schaugewächshäusern"
+        },
+        {
+            "name": "Ernst-Deutsch-Theater",
+            "adresse": "Friedrich-Schütter-Platz 1, 22087 Hamburg",
+            "beschreibung": "Deutschlands größtes Privattheater"
+        },
+        {
+            "name": "Deichtorhallen",
+            "adresse": "Deichtorstraße 1-2, 20095 Hamburg",
+            "beschreibung": "Zentrum für zeitgenössische Kunst und Fotografie"
+        },
+        {
+            "name": "Museumshafen Harburg",
+            "adresse": "Lotsekai, 21079 Hamburg",
+            "beschreibung": "Kleiner Museumshafen mit historischen Schiffen in Harburg"
+        },
+        {
+            "name": "Bergedorfer Schloss",
+            "adresse": "Bergedorfer Schloßstraße 4, 21029 Hamburg",
+            "beschreibung": "Einziges erhaltenes Schloss Hamburgs, heute Museum"
+        },
+        {
+            "name": "Arboretum Ellerhoop-Thiensen",
+            "adresse": "Thiensen 4, 25373 Ellerhoop (bei Hamburg)",
+            "beschreibung": "Botanischer Garten mit einzigartiger Pflanzenvielfalt"
+        },
+        {
+            "name": "Planetarium Hamburg",
+            "adresse": "Linnering 1, 22299 Hamburg",
+            "beschreibung": "Eines der modernsten Planetarien Europas, im Wasserturm"
+        },
+        {
+            "name": "Ohlsdorfer Friedhof",
+            "adresse": "Fuhlsbüttler Str. 756, 22337 Hamburg",
+            "beschreibung": "Größter Parkfriedhof der Welt, mit Mausoleen und Skulpturen"
+        },
+        {
+            "name": "Boberger Dünen",
+            "adresse": "Boberger Furt, 21033 Hamburg",
+            "beschreibung": "Naturschutzgebiet mit Sanddünen, Seen und Wanderwegen"
+        },
+        {
+            "name": "Fischbeker Heide",
+            "adresse": "Fischbeker Heideweg, 21149 Hamburg",
+            "beschreibung": "Weitläufiges Heidegebiet im Süden Hamburgs mit Wanderwegen"
+        },
+        {
+            "name": "Loki-Schmidt-Garten (Botanischer Garten)",
+            "adresse": "Ohnhorststraße, 22609 Hamburg",
+            "beschreibung": "Großer Universitätsgarten mit Pflanzen aus aller Welt"
+        },
+        {
+            "name": "Internationales Café Schmidt",
+            "adresse": "Große Elbstraße 212, 22767 Hamburg",
+            "beschreibung": "Traditionsbäckerei und Café mit Elbblick"
+        },
+        {
+            "name": "Treppenviertel Blankenese",
+            "adresse": "Blankenese, 22587 Hamburg",
+            "beschreibung": "Malerisches Viertel mit verschlungenen Treppen und Elbblick"
+        },
+        {
+            "name": "Dockland",
+            "adresse": "Van-der-Smissen-Straße 9, 22767 Hamburg",
+            "beschreibung": "Architektonisch markantes Bürogebäude mit frei zugänglicher Dachterrasse"
+        },
+        {
+            "name": "Schanzenviertel",
+            "adresse": "Sternschanze, 20357 Hamburg",
+            "beschreibung": "Alternatives Szeneviertel mit Bars, Restaurants und Street-Art"
+        },
+        {
+            "name": "Karolinenviertel",
+            "adresse": "Karolinenstraße, 20357 Hamburg",
+            "beschreibung": "Künstler- und Kreativviertel mit kleinen Läden und Cafés"
+        },
+        {
+            "name": "Süllberg",
+            "adresse": "Süllbergsterrasse 12, 22587 Hamburg",
+            "beschreibung": "Aussichtspunkt und historisches Gebäude mit Panoramablick"
+        },
+        {
+            "name": "Jenisch-Haus",
+            "adresse": "Baron-Voght-Straße 50, 22609 Hamburg",
+            "beschreibung": "Museum für Kunst und Kulturgeschichte im Jenischpark"
+        },
+        {
+            "name": "Alsterarkaden",
+            "adresse": "Alsterarkaden, 20354 Hamburg",
+            "beschreibung": "Arkadenbauten am Wasser mit Boutiquen und Cafés"
+        },
+        {
+            "name": "Europa Passage",
+            "adresse": "Ballindamm 40, 20095 Hamburg",
+            "beschreibung": "Großes Einkaufszentrum zwischen Binnenalster und Mönckebergstraße"
+        },
+        {
+            "name": "Mönckebergstraße",
+            "adresse": "Mönckebergstraße, 20095 Hamburg",
+            "beschreibung": "Wichtige Einkaufsstraße im Herzen der Innenstadt"
+        },
+        {
+            "name": "Binnenhafen Harburg",
+            "adresse": "Binnenhafen, 21079 Hamburg",
+            "beschreibung": "Modernisiertes Quartier mit Restaurants, Wohnanlagen und Hafenflair"
+        },
+        {
+            "name": "Fabrik Altona",
+            "adresse": "Barnerstraße 36, 22765 Hamburg",
+            "beschreibung": "Kulturelles Zentrum mit Konzerten, Märkten und Veranstaltungen"
+        },
+        {
+            "name": "Hamburg Messe und Congress",
+            "adresse": "Messeplatz 1, 20357 Hamburg",
+            "beschreibung": "Veranstaltungszentrum mit internationalen Messen"
+        },
+        {
+            "name": "Opernloft Hamburg",
+            "adresse": "Friedensallee 26, 22765 Hamburg",
+            "beschreibung": "Modernes Opernhaus mit innovativen Aufführungen"
+        },
+        {
+            "name": "Schanzenpark",
+            "adresse": "Sternschanze, 20357 Hamburg",
+            "beschreibung": "Grüner Park mit Wasserturm, heute Planetarium"
+        },
+        {
+            "name": "Alter Botanischer Garten",
+            "adresse": "Stephansplatz, 20354 Hamburg",
+            "beschreibung": "Historische Gartenanlage mit exotischen Pflanzen"
+        },
+        {
+            "name": "Theater im Hafen (Disneys König der Löwen)",
+            "adresse": "Norderelbstraße 6, 20457 Hamburg",
+            "beschreibung": "Musicaltheater direkt an der Elbe, nur per Fähre erreichbar"
+        },
+        {
+            "name": "Stage Operettenhaus",
+            "adresse": "Spielbudenplatz 1, 20359 Hamburg",
+            "beschreibung": "Musicaltheater an der Reeperbahn mit wechselnden Shows"
+        },
+        {
+            "name": "Stage Neue Flora",
+            "adresse": "Stresemannstraße 159A, 22769 Hamburg",
+            "beschreibung": "Großes Musicaltheater, bekannt durch Produktionen wie Phantom der Oper"
+        },
+        {
+            "name": "Stage Theater an der Elbe",
+            "adresse": "Norderelbstraße 6, 20457 Hamburg",
+            "beschreibung": "Modernes Musicaltheater gegenüber der Landungsbrücken"
+        },
+        {
+            "name": "Ohnsorg-Theater",
+            "adresse": "Heidi-Kabel-Platz 1, 20099 Hamburg",
+            "beschreibung": "Traditionelles Theater, bekannt für Stücke auf Plattdeutsch"
+        },
+        {
+            "name": "Thalia Theater",
+            "adresse": "Alstertor 1, 20095 Hamburg",
+            "beschreibung": "Eines der drei großen Hamburger Staatstheater"
+        },
+        {
+            "name": "Deutsches Schauspielhaus",
+            "adresse": "Kirchenallee 39, 20099 Hamburg",
+            "beschreibung": "Größtes Sprechtheater Deutschlands mit abwechslungsreichem Programm"
+        },
+        {
+            "name": "Laeiszhalle (Musikhalle Hamburg)",
+            "adresse": "Johannes-Brahms-Platz, 20355 Hamburg",
+            "beschreibung": "Konzertsaal mit klassischer Musik und Jazzveranstaltungen"
+        },
+        {
+            "name": "Kunstverein in Hamburg",
+            "adresse": "Klosterwall 23, 20095 Hamburg",
+            "beschreibung": "Ort für zeitgenössische Ausstellungen und Kunstvermittlung"
+        },
+        {
+            "name": "Markthalle Hamburg",
+            "adresse": "Klosterwall 11, 20095 Hamburg",
+            "beschreibung": "Konzert- und Eventhalle für Rock, Pop und Independent-Musik"
+        },
+        {
+            "name": "Rote Flora",
+            "adresse": "Achidi-John-Platz 1, 20357 Hamburg",
+            "beschreibung": "Ehemaliges Theater, heute Kultur- und Politikzentrum"
+        },
+        {
+            "name": "Alsterhaus",
+            "adresse": "Jungfernstieg 16-20, 20354 Hamburg",
+            "beschreibung": "Exklusives Warenhaus mit Blick auf die Binnenalster"
+        },
+        {
+            "name": "Levantehaus",
+            "adresse": "Mönckebergstraße 7, 20095 Hamburg",
+            "beschreibung": "Elegantes Einkaufszentrum im Jugendstilgebäude"
+        },
+        {
+            "name": "Rathausmarkt",
+            "adresse": "Rathausmarkt, 20095 Hamburg",
+            "beschreibung": "Zentraler Platz vor dem Hamburger Rathaus, Veranstaltungsort"
+        },
+        {
+            "name": "Domplatz Hamburg",
+            "adresse": "Domplatz, 20095 Hamburg",
+            "beschreibung": "Historischer Standort der Hammaburg, archäologisches Areal"
+        },
+        {
+            "name": "Sankt Nikolai Mahnmal",
+            "adresse": "Willy-Brandt-Straße 60, 20457 Hamburg",
+            "beschreibung": "Ruine der im 2. Weltkrieg zerstörten Kirche, heute Mahnmal"
+        },
+        {
+            "name": "St. Petri Kirche",
+            "adresse": "Mönckebergstraße 22, 20095 Hamburg",
+            "beschreibung": "Älteste erhaltene Hauptkirche Hamburgs"
+        },
+        {
+            "name": "St. Jacobi Kirche",
+            "adresse": "Jakobikirchhof 22, 20095 Hamburg",
+            "beschreibung": "Gotische Backsteinkirche mit berühmter Arp-Schnitger-Orgel"
+        },
+        {
+            "name": "St. Katharinen Kirche",
+            "adresse": "Katharinenkirchhof 1, 20457 Hamburg",
+            "beschreibung": "Hauptkirche der Speicherstadt mit markantem Turm"
+        },
+        {
+            "name": "Kunstmeile Hamburg",
+            "adresse": "Zwischen Hauptbahnhof und Deichtorhallen, 20095 Hamburg",
+            "beschreibung": "Museumsverbund mit fünf großen Ausstellungshäusern"
+        },
+        {
+            "name": "Zoologisches Museum",
+            "adresse": "Martin-Luther-King-Platz 3, 20146 Hamburg",
+            "beschreibung": "Naturkundemuseum mit beeindruckenden Tierpräparaten"
+        },
+        {
+            "name": "Geologisch-Paläontologisches Museum",
+            "adresse": "Bundesstraße 55, 20146 Hamburg",
+            "beschreibung": "Museum zu Erdgeschichte, Fossilien und Geologie"
+        },
+        {
+            "name": "Museum für Hamburgische Geschichte",
+            "adresse": "Holstenwall 24, 20355 Hamburg",
+            "beschreibung": "Museum zur Stadtgeschichte Hamburgs vom Mittelalter bis heute"
+        },
+        {
+            "name": "Museum am Rothenbaum – Kulturen und Künste der Welt (MARKK)",
+            "adresse": "Rothenbaumchaussee 64, 20148 Hamburg",
+            "beschreibung": "Völkerkundemuseum mit Sammlungen aus aller Welt"
+        },
+        {
+            "name": "Museumshafen Neumühlen",
+            "adresse": "Övelgönne 1, 22605 Hamburg",
+            "beschreibung": "Historische Schiffe am Elbufer in Oevelgönne"
+        },
+        {
+            "name": "Automuseum Prototyp",
+            "adresse": "Shanghaiallee 7, 20457 Hamburg",
+            "beschreibung": "Museum mit seltenen Automobilen und Prototypen"
+        },
+        {
+            "name": "Chocoversum",
+            "adresse": "Meßberg 1, 20095 Hamburg",
+            "beschreibung": "Erlebnismuseum rund um die Welt der Schokolade"
+        },
+        {
+            "name": "Spicy's Gewürzmuseum",
+            "adresse": "Am Sandtorkai 34, 20457 Hamburg",
+            "beschreibung": "Einziges Gewürzmuseum Europas in der Speicherstadt"
+        },
+        {
+            "name": "Dialog im Dunkeln",
+            "adresse": "Alter Wandrahm 4, 20457 Hamburg",
+            "beschreibung": "Interaktive Ausstellung zur Wahrnehmung ohne Sehsinn"
+        },
+        {
+            "name": "Dialog im Stillen",
+            "adresse": "Alter Wandrahm 4, 20457 Hamburg",
+            "beschreibung": "Erlebnisausstellung rund um die Welt der Stille und Gebärdensprache"
+        },
+        {
+            "name": "Museum Elbinsel Wilhelmsburg",
+            "adresse": "Kirchdorfer Straße 163, 21109 Hamburg",
+            "beschreibung": "Museum zur Geschichte Wilhelmsburgs und der Elbinseln"
+        },
+        {
+            "name": "Harburger Theater",
+            "adresse": "Museumsplatz 2, 21073 Hamburg",
+            "beschreibung": "Traditionelles Stadttheater im Süden Hamburgs"
+        },
+        {
+            "name": "Altonaer Theater",
+            "adresse": "Museumsstraße 17, 22765 Hamburg",
+            "beschreibung": "Bühne mit Adaptionen von Literatur- und Bühnenklassikern"
+        },
+        {
+            "name": "Ernst-Barlach-Haus",
+            "adresse": "Baron-Voght-Straße 50a, 22609 Hamburg",
+            "beschreibung": "Museum für den expressionistischen Künstler Ernst Barlach"
+        },
+        {
+            "name": "Jenischpark",
+            "adresse": "Klein Flottbek, 22609 Hamburg",
+            "beschreibung": "Große Parkanlage mit alten Bäumen und Elbblick"
+        },
+        {
+            "name": "Altonaer Balkon",
+            "adresse": "Palmaille, 22767 Hamburg",
+            "beschreibung": "Aussichtspunkt mit weitem Blick auf den Hamburger Hafen"
+        },
+        {
+            "name": "HafenCity Universität",
+            "adresse": "Überseeallee 16, 20457 Hamburg",
+            "beschreibung": "Architektonisch markantes Gebäude und Wahrzeichen der HafenCity"
+        },
+        {
+            "name": "Hafencity InfoCenter Kesselhaus",
+            "adresse": "Am Sandtorkai 30, 20457 Hamburg",
+            "beschreibung": "Informationszentrum zur Entwicklung der HafenCity"
+        },
+        {
+            "name": "Elbstrand Övelgönne",
+            "adresse": "Övelgönne, 22605 Hamburg",
+            "beschreibung": "Beliebter Strandabschnitt direkt an der Elbe"
+        },
+        {
+            "name": "Inselpark Wilhelmsburg",
+            "adresse": "Wilhelmsburger Reichsstraße, 21109 Hamburg",
+            "beschreibung": "Großer Park, entstanden aus der Internationalen Gartenschau 2013"
+        },
+        {
+            "name": "Hammer Park",
+            "adresse": "Hammer Steindamm, 22089 Hamburg",
+            "beschreibung": "Stadtpark mit Rosengarten, Spielplätzen und Sportanlagen"
+        },
+        {
+            "name": "Stadtpark Hamburg",
+            "adresse": "Saarlandstraße, 22303 Hamburg",
+            "beschreibung": "Größter Park Hamburgs mit Planetarium, See und Freilichtbühne"
+        }
+    ]
+}

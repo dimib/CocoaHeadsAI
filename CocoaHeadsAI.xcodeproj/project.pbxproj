@@ -6,6 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		36CCD3522E8FCC5C0029D597 /* TripPlanner in Frameworks */ = {isa = PBXBuildFile; productRef = 36CCD3512E8FCC5C0029D597 /* TripPlanner */; };
+		36CCD3552E8FCCE70029D597 /* TripPlanner in Frameworks */ = {isa = PBXBuildFile; productRef = 36CCD3542E8FCCE70029D597 /* TripPlanner */; };
+		36CCD3CA2E8FD03B0029D597 /* TripPlanner in Frameworks */ = {isa = PBXBuildFile; productRef = 36CCD3C92E8FD03B0029D597 /* TripPlanner */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		36CCD32C2E8FC4C40029D597 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -29,9 +35,27 @@
 		36CCD3352E8FC4C40029D597 /* CocoaHeadsAIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CocoaHeadsAIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		36CCD3C72E8FCFFB0029D597 /* Exceptions for "CocoaHeadsAI" folder in "CocoaHeadsAITests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Domain/TripPlanner/TripPlanner.swift,
+				Domain/TripPlanner/TripPlannerTool.swift,
+				Model/HamburgGuideDayPlan.swift,
+				Model/HamburgGuideLocation.swift,
+				Model/HamburgLocations.swift,
+				Model/TripPlannerJourney.swift,
+			);
+			target = 36CCD32A2E8FC4C40029D597 /* CocoaHeadsAITests */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		36CCD31E2E8FC4C30029D597 /* CocoaHeadsAI */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				36CCD3C72E8FCFFB0029D597 /* Exceptions for "CocoaHeadsAI" folder in "CocoaHeadsAITests" target */,
+			);
 			path = CocoaHeadsAI;
 			sourceTree = "<group>";
 		};
@@ -52,6 +76,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36CCD3552E8FCCE70029D597 /* TripPlanner in Frameworks */,
+				36CCD3522E8FCC5C0029D597 /* TripPlanner in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,6 +85,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36CCD3CA2E8FD03B0029D597 /* TripPlanner in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +105,7 @@
 				36CCD31E2E8FC4C30029D597 /* CocoaHeadsAI */,
 				36CCD32E2E8FC4C40029D597 /* CocoaHeadsAITests */,
 				36CCD3382E8FC4C40029D597 /* CocoaHeadsAIUITests */,
+				36CCD3C82E8FD03B0029D597 /* Frameworks */,
 				36CCD31D2E8FC4C30029D597 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,6 +118,13 @@
 				36CCD3352E8FC4C40029D597 /* CocoaHeadsAIUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		36CCD3C82E8FD03B0029D597 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -112,6 +147,8 @@
 			);
 			name = CocoaHeadsAI;
 			packageProductDependencies = (
+				36CCD3512E8FCC5C0029D597 /* TripPlanner */,
+				36CCD3542E8FCCE70029D597 /* TripPlanner */,
 			);
 			productName = CocoaHeadsAI;
 			productReference = 36CCD31C2E8FC4C30029D597 /* CocoaHeadsAI.app */;
@@ -135,6 +172,7 @@
 			);
 			name = CocoaHeadsAITests;
 			packageProductDependencies = (
+				36CCD3C92E8FD03B0029D597 /* TripPlanner */,
 			);
 			productName = CocoaHeadsAITests;
 			productReference = 36CCD32B2E8FC4C40029D597 /* CocoaHeadsAITests.xctest */;
@@ -195,6 +233,9 @@
 			);
 			mainGroup = 36CCD3132E8FC4C30029D597;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				36CCD3532E8FCCE70029D597 /* XCLocalSwiftPackageReference "../TripPlanner" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 36CCD31D2E8FC4C30029D597 /* Products */;
 			projectDirPath = "";
@@ -395,7 +436,17 @@
 				DEVELOPMENT_TEAM = TGTZK275Q2;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
+				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_RESOURCE_ACCESS_AUDIO_INPUT = NO;
+				ENABLE_RESOURCE_ACCESS_BLUETOOTH = NO;
+				ENABLE_RESOURCE_ACCESS_CALENDARS = NO;
+				ENABLE_RESOURCE_ACCESS_CAMERA = NO;
+				ENABLE_RESOURCE_ACCESS_CONTACTS = NO;
+				ENABLE_RESOURCE_ACCESS_LOCATION = NO;
+				ENABLE_RESOURCE_ACCESS_PRINTING = NO;
+				ENABLE_RESOURCE_ACCESS_USB = NO;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -408,6 +459,7 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
@@ -439,7 +491,17 @@
 				DEVELOPMENT_TEAM = TGTZK275Q2;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
+				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_RESOURCE_ACCESS_AUDIO_INPUT = NO;
+				ENABLE_RESOURCE_ACCESS_BLUETOOTH = NO;
+				ENABLE_RESOURCE_ACCESS_CALENDARS = NO;
+				ENABLE_RESOURCE_ACCESS_CAMERA = NO;
+				ENABLE_RESOURCE_ACCESS_CONTACTS = NO;
+				ENABLE_RESOURCE_ACCESS_LOCATION = NO;
+				ENABLE_RESOURCE_ACCESS_PRINTING = NO;
+				ENABLE_RESOURCE_ACCESS_USB = NO;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -452,6 +514,7 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
@@ -615,6 +678,29 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		36CCD3532E8FCCE70029D597 /* XCLocalSwiftPackageReference "../TripPlanner" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../TripPlanner;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		36CCD3512E8FCC5C0029D597 /* TripPlanner */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = TripPlanner;
+		};
+		36CCD3542E8FCCE70029D597 /* TripPlanner */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = TripPlanner;
+		};
+		36CCD3C92E8FD03B0029D597 /* TripPlanner */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 36CCD3532E8FCCE70029D597 /* XCLocalSwiftPackageReference "../TripPlanner" */;
+			productName = TripPlanner;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 36CCD3142E8FC4C30029D597 /* Project object */;
 }

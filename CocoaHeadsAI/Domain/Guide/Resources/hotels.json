@@ -1,0 +1,304 @@
+{
+    "items":[
+        {
+            "name": "Hotel Vier Jahreszeiten",
+            "adresse": "Neuer Jungfernstieg 9–14, 20354 Hamburg",
+            "beschreibung": "Luxushotel am Alsterufer mit 5 Sternen und 7 Restaurants.",
+            "link": "https://hvj.de/de/"
+        },
+        {
+            "name": "Empire Riverside Hotel",
+            "adresse": "Bernhard-Nocht-Straße 97, 20359 Hamburg",
+            "beschreibung": "Modernes Hotel mit 327 Zimmern und Panoramablick auf den Hafen.",
+            "link": "https://www.empire-riverside.de/"
+        },
+        {
+            "name": "Hotel Louis C. Jacob",
+            "adresse": "Elbchaussee 401–403, 22609 Hamburg",
+            "beschreibung": "5-Sterne-Hotel mit historischem Charme und Elbblick.",
+            "link": "https://www.hotel-jacob.de/"
+        },
+        {
+            "name": "Radisson Blu Hotel Hamburg",
+            "adresse": "Congressplatz 2, 20355 Hamburg",
+            "beschreibung": "Hochhaus-Hotel mit 556 Zimmern und direkter Anbindung zum CCH.",
+            "link": "https://www.radissonhotels.com/de-de/hotels/radisson-blu-hamburg"
+        },
+        {
+            "name": "Grand Elysée Hotel Hamburg",
+            "adresse": "Rothenbaumchaussee 10, 20148 Hamburg",
+            "beschreibung": "Luxuriöses Hotel mit 5 Sternen und 7 Restaurants.",
+            "link": "https://www.grand-elysee.com/"
+        },
+        {
+            "name": "Hotel Reichshof Hamburg",
+            "adresse": "Kirchenallee 34–36, 20099 Hamburg",
+            "beschreibung": "Historisches Hotel mit modernem Komfort, direkt am Hauptbahnhof.",
+            "link": "https://www.reichshof-hamburg.de/"
+        },
+        {
+            "name": "Motel One Hamburg-Alster",
+            "adresse": "Steindamm 102, 20099 Hamburg",
+            "beschreibung": "Budgetfreundliches Designhotel in der Nähe des Hauptbahnhofs.",
+            "link": "https://www.motel-one.com/de/hotels/hamburg/hotel-hamburg-alster/"
+        },
+        {
+            "name": "25hours Hotel HafenCity",
+            "adresse": "Überseeallee 5, 20457 Hamburg",
+            "beschreibung": "Kreatives Hotel mit maritimem Flair in der HafenCity.",
+            "link": "https://www.25hours-hotels.com/de/hotels/hamburg/hafencity"
+        },
+        {
+            "name": "Superbude Hotel Hostel St. Pauli",
+            "adresse": "Schwedenstraße 22, 20357 Hamburg",
+            "beschreibung": "Hippe Unterkunft mit Hostel-Charakter und Hotelkomfort.",
+            "link": "https://www.superbude.com/hotel-hostel-hamburg/st-pauli/"
+        },
+        {
+            "name": "IntercityHotel Hamburg Hauptbahnhof",
+            "adresse": "Glockengießerwall 14/15, 20095 Hamburg",
+            "beschreibung": "Modernes Hotel direkt am Hauptbahnhof mit kostenlosem Nahverkehrsticket.",
+            "link": "https://www.intercityhotel.com/de/hotels/hamburg/intercityhotel-hamburg-hauptbahnhof"
+        },
+        {
+            "name": "Hotel Baseler Hof",
+            "adresse": "Esplanade 11, 20354 Hamburg",
+            "beschreibung": "Traditionsreiches Hotel in zentraler Lage mit 4 Sternen.",
+            "link": "https://www.baselerhof.de/"
+        },
+        {
+            "name": "Hotel Schmidt",
+            "adresse": "Reventlowstraße 60, 22605 Hamburg",
+            "beschreibung": "Familiengeführtes Hotel im Stadtteil Altona mit persönlichem Service.",
+            "link": "https://www.hotel-schmidt.de/"
+        },
+        {
+            "name": "Hotel Stephan",
+            "adresse": "Schmarjestr. 31, 22767 Hamburg",
+            "beschreibung": "Kleines Hotel mit gemütlicher Atmosphäre im Stadtteil Ottensen.",
+            "link": "https://www.hotel-stephan.de/"
+        },
+        {
+            "name": "Hotel Stella Maris",
+            "adresse": "Reimarusstraße 12, 20459 Hamburg",
+            "beschreibung": "Historisches Hotel in der Nähe des Hamburger Hafens.",
+            "link": "https://www.hotel-stellamaris.de/"
+        },
+        {
+            "name": "Meininger Hotel Hamburg City Center",
+            "adresse": "Goetheallee 11, 22765 Hamburg",
+            "beschreibung": "Kombination aus Hotel und Hostel mit modernen Zimmern.",
+            "link": "https://www.meininger-hotels.com/de/hotels/hamburg/"
+        },
+        {
+            "name": "A&O Hotel Hamburg City",
+            "adresse": "Spaldingstraße 160, 20097 Hamburg",
+            "beschreibung": "Budgetfreundliches Hotel mit Hostel-Charakter und zentraler Lage.",
+            "link": "https://www.aohostels.com/de/hamburg/hamburg-city-sued/"
+        },
+        {
+            "name": "ibis Hamburg Airport",
+            "adresse": "Alsterkrugchaussee 445, 22335 Hamburg",
+            "beschreibung": "Praktisches Hotel in Flughafennähe mit kostenlosem Shuttle-Service.",
+            "link": "https://all.accor.com/hotel/3694/index.de.shtml"
+        },
+        {
+            "name": "Hotel Zum Zeppelin",
+            "adresse": "Frohmestr. 123, 22459 Hamburg",
+            "beschreibung": "Gemütliches Hotel im Stadtteil Eidelstedt mit familiärem Ambiente.",
+            "link": "https://www.zumzeppelin.de/"
+        },
+        {
+            "name": "Hotel Alameda",
+            "adresse": "Collonaden 45, 20354 Hamburg",
+            "beschreibung": "Kleines Hotel in zentraler Lage mit persönlichem Service.",
+            "link": "https://www.hotelalameda.de/"
+        },
+        {
+            "name": "Hotel Mittelweg",
+            "adresse": "Mittelweg 59, 20149 Hamburg",
+            "beschreibung": "Kleines Hotel in der Nähe des Stadtparks mit ruhiger Lage.",
+            "link": "https://www.hotel-mittelweg.de/"
+        },
+        {
+            "name": "Hotel Bellmoor",
+            "adresse": "Moorweidenstraße 34, 20146 Hamburg",
+            "beschreibung": "Charmantes Hotel im Stadtteil Eppendorf mit historischem Flair.",
+            "link": "https://www.hotel-bellmoor.de/"
+        },
+        {
+            "name": "Gastwerk Hotel Hamburg",
+            "adresse": "Beim Alten Gaswerk 3, 22761 Hamburg",
+            "beschreibung": "Industrielles Designhotel in einem ehemaligen Gaswerkgebäude.",
+            "link": "https://www.gastwerk.com/"
+        },
+        {
+            "name": "B&B Hotel Hamburg-Altona",
+            "adresse": "Stresemannstraße 318, 22761 Hamburg",
+            "beschreibung": "Budgetfreundliches Hotel mit zentraler Lage und kostenlosem WLAN.",
+            "link": "https://www.hotelbb.de/de/hamburg-altona"
+        },
+        {
+            "name": "NH Hamburg-Altona",
+            "adresse": "Stresemannstraße 363-369, 22761 Hamburg",
+            "beschreibung": "Modernes Hotel mit gutem Zugang zum öffentlichen Nahverkehr.",
+            "link": "https://www.nh-hotels.com/hotel/nh-hamburg-altona"
+        },
+        {
+            "name": "Motel One Hamburg-Altona",
+            "adresse": "Kieler Str. 171, 22525 Hamburg",
+            "beschreibung": "Designorientiertes Hotel mit zentraler Lage und gutem Preis-Leistungs-Verhältnis.",
+            "link": "https://www.motel-one.com/de/hotels/hamburg/hotel-hamburg-altona/"
+        },
+        {
+            "name": "Superbude Hotel Hostel Altona",
+            "adresse": "Paul-Dessau-Str. 2, 22761 Hamburg",
+            "beschreibung": "Kreatives Hotel mit Hostel-Charakter und zentraler Lage.",
+            "link": "https://www.superbude.com/hotel-hostel-hamburg/altona/"
+        },
+        {
+            "name": "Sylc. Apartmenthotel",
+            "adresse": "Kronsaalsweg 88, 22525 Hamburg",
+            "beschreibung": "Apartmenthotel für Langzeitaufenthalte mit modernen Annehmlichkeiten.",
+            "link": "https://www.sylc.de/"
+        },
+        {
+            "name": "Mercure Hotel Hamburg am Volkspark",
+            "adresse": "Albert-Einstein-Ring 2, 22761 Hamburg",
+            "beschreibung": "Modernes Hotel mit gutem Zugang zum Volksparkstadion.",
+            "link": "https://all.accor.com/hotel/1659/index.de.shtml"
+        },
+        {
+            "name": "InterCityHotel Hamburg Altona",
+            "adresse": "Paul-Nevermann-Platz 17, 22765 Hamburg",
+            "beschreibung": "Hotel mit direkter Anbindung an den Bahnhof Altona.",
+            "link": "https://www.intercityhotel.com/de/hotels/hamburg/intercityhotel-hamburg-altona"
+        },
+        {
+            "name": "Motel One Hamburg am Michel",
+            "adresse": "Ludwig-Erhard-Str. 26, 20459 Hamburg",
+            "beschreibung": "Modernes Hotel in der Nähe des Hamburger Doms und der Speicherstadt.",
+            "link": "https://www.motel-one.com/de/hotels/hamburg/hotel-hamburg-am-michel/"
+        },
+        {
+            "name": "Hotel Blankenese",
+            "adresse": "Schenefelder Landstr. 164, 22589 Hamburg",
+            "beschreibung": "Elegantes Hotel im Stadtteil Blankenese mit Elbblick.",
+            "link": "https://www.hotel-blankenese.de/"
+        },
+        {
+            "name": "Hotel Louis C. Jacob",
+            "adresse": "Elbchaussee 401–403, 22609 Hamburg",
+            "beschreibung": "Luxuriöses Hotel mit Elbblick und 2 Michelin-Sternen.",
+            "link": "https://www.hotel-jacob.de/"
+        },
+        {
+            "name": "Hotel Baseler Hof",
+            "adresse": "Esplanade 11, 20354 Hamburg",
+            "beschreibung": "Traditionsreiches Hotel in zentraler Lage mit 4 Sternen.",
+            "link": "https://www.baselerhof.de/"
+        },
+        {
+            "name": "Hotel Schmidt",
+            "adresse": "Reventlowstraße 60, 22605 Hamburg",
+            "beschreibung": "Familiengeführtes Hotel im Stadtteil Altona mit persönlichem Service.",
+            "link": "https://www.hotel-schmidt.de/"
+        },
+        {
+            "name": "Hotel Stephan",
+            "adresse": "Schmarjestr. 31, 22767 Hamburg",
+            "beschreibung": "Kleines Hotel mit gemütlicher Atmosphäre im Stadtteil Ottensen.",
+            "link": "https://www.hotel-stephan.de/"
+        },
+        {
+            "name": "Hotel Stella Maris",
+            "adresse": "Reimarusstraße 12, 20459 Hamburg",
+            "beschreibung": "Historisches Hotel in der Nähe des Hamburger Hafens.",
+            "link": "https://www.hotel-stellamaris.de/"
+        },
+        {
+            "name": "Meininger Hotel Hamburg City Center",
+            "adresse": "Goetheallee 11, 22765 Hamburg",
+            "beschreibung": "Kombination aus Hotel und Hostel mit modernen Zimmern.",
+            "link": "https://www.meininger-hotels.com/de/hotels/hamburg/"
+        },
+        {
+            "name": "A&O Hotel Hamburg City",
+            "adresse": "Spaldingstraße 160, 20097 Hamburg",
+            "beschreibung": "Budgetfreundliches Hotel mit Hostel-Charakter und zentraler Lage.",
+            "link": "https://www.aohostels.com/de/hamburg/hamburg-city-sued/"
+        },
+        {
+            "name": "ibis Hamburg Airport",
+            "adresse": "Alsterkrugchaussee 445, 22335 Hamburg",
+            "beschreibung": "Praktisches Hotel in Flughafennähe mit kostenlosem Shuttle-Service.",
+            "link": "https://all.accor.com/hotel/3694/index.de.shtml"
+        },
+        {
+            "name": "Hotel Zum Zeppelin",
+            "adresse": "Frohmestr. 123, 22459 Hamburg",
+            "beschreibung": "Gemütliches Hotel im Stadtteil Eidelstedt mit familiärem Ambiente.",
+            "link": "https://www.zumzeppelin.de/"
+        },
+        {
+            "name": "Hotel Alameda",
+            "adresse": "Collonaden 45, 20354 Hamburg",
+            "beschreibung": "Kleines Hotel in zentraler Lage mit persönlichem Service.",
+            "link": "https://www.hotelalameda.de/"
+        },
+        {
+            "name": "Hotel Mittelweg",
+            "adresse": "Mittelweg 59, 20149 Hamburg",
+            "beschreibung": "Kleines Hotel in der Nähe des Stadtparks mit ruhiger Lage.",
+            "link": "https://www.hotel-mittelweg.de/"
+        },
+        {
+            "name": "Hotel Bellmoor",
+            "adresse": "Moorweidenstraße 34, 20146 Hamburg",
+            "beschreibung": "Charmantes Hotel im Stadtteil Eppendorf mit historischem Flair.",
+            "link": "https://www.hotel-bellmoor.de/"
+        },
+        {
+            "name": "Gastwerk Hotel Hamburg",
+            "adresse": "Beim Alten Gaswerk 3, 22761 Hamburg",
+            "beschreibung": "Industrielles Designhotel in einem ehemaligen Gaswerkgebäude.",
+            "link": "https://www.gastwerk.com/"
+        },
+        {
+            "name": "B&B Hotel Hamburg-Altona",
+            "adresse": "Stresemannstraße 318, 22761 Hamburg",
+            "beschreibung": "Budgetfreundliches Hotel mit zentraler Lage und kostenlosem WLAN.",
+            "link": "https://www.hotelbb.de/de/hamburg-altona"
+        },
+        {
+            "name": "NH Hamburg-Altona",
+            "adresse": "Stresemannstraße 363-369, 22761 Hamburg",
+            "beschreibung": "Modernes Hotel mit gutem Zugang zum öffentlichen Nahverkehr.",
+            "link": "https://www.nh-hotels.com/hotel/nh-hamburg-altona"
+        },
+        {
+            "name": "Motel One Hamburg-Altona",
+            "adresse": "Kieler Str. 171, 22525 Hamburg",
+            "beschreibung": "Designorientiertes Hotel mit zentraler Lage und gutem Preis-Leistungs-Verhältnis.",
+            "link": "https://www.motel-one.com/de/hotels/hamburg/hotel-hamburg-altona/"
+        },
+        {
+            "name": "Superbude Hotel Hostel Altona",
+            "adresse": "Paul-Dessau-Str. 2, 22761 Hamburg",
+            "beschreibung": "Kreatives Hotel mit Hostel-Charakter und zentraler Lage.",
+            "link": "https://www.superbude.com/hotel-hostel-hamburg/altona/"
+        },
+        {
+            "name": "Sylc. Apartmenthotel",
+            "adresse": "Kronsaalsweg 88, 22525 Hamburg",
+            "beschreibung": "Apartmenthotel für Langzeitaufenthalte mit modernen Annehmlichkeiten.",
+            "link": "https://www.sylc.de/"
+        },
+        {
+            "name": "Mercure Hotel Hamburg am Volkspark",
+            "adresse": "Albert-Einstein-Ring 2, 22761 Hamburg",
+            "beschreibung": "Modernes Hotel mit gutem Zugang zum Volksparkstadion.",
+            "link": "https://all.accor.com/hotel/1659/index.de.shtml"
+        }
+    ]
+}

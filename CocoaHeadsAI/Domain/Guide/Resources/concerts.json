@@ -1,0 +1,352 @@
+{
+    "items":[
+        {
+            "name": "Elbphilharmonie",
+            "adresse": "Platz der Deutschen Einheit 4, 20457 Hamburg",
+            "beschreibung": "Weltbekannte Konzerthalle mit herausragender Akustik und vielfältigem Programm von Klassik bis Jazz.",
+            "link": "https://www.elbphilharmonie.de"
+        },
+        {
+            "name": "Laeiszhalle",
+            "adresse": "Johannes-Brahms-Platz 1, 20355 Hamburg",
+            "beschreibung": "Historische Konzerthalle im Neorenaissance-Stil, Heimat des NDR Elbphilharmonie Orchesters.",
+            "link": "https://www.elbphilharmonie.de/de/laeiszhalle"
+        },
+        {
+            "name": "Markthalle Hamburg",
+            "adresse": "Klosterwall 11, 20095 Hamburg",
+            "beschreibung": "Ehemalige Markthalle, heute beliebte Konzertlocation für Rock, Pop und alternative Musik.",
+            "link": "https://markthalle-hamburg.de/"
+        },
+        {
+            "name": "Barclays Arena",
+            "adresse": "Hellgrundweg 44, 22525 Hamburg",
+            "beschreibung": "Multifunktionale Arena für große Konzerte, Sportevents und Shows.",
+            "link": "https://www.barclays-arena.de/"
+        },
+        {
+            "name": "Sporthalle Hamburg",
+            "adresse": "Krochmannstraße 55, 22297 Hamburg",
+            "beschreibung": "Große Mehrzweckhalle für Konzerte, Sportveranstaltungen und Messen.",
+            "link": "https://www.sporthalle-hamburg.de/"
+        },
+        {
+            "name": "Friedrich-Ebert-Halle",
+            "adresse": "Harburger Rathausplatz 1, 21073 Hamburg",
+            "beschreibung": "Historische Halle mit exzellenter Akustik, bekannt für klassische Konzerte und Events.",
+            "link": "https://friedricheberthalle.de/"
+        },
+        {
+            "name": "RBO Studio",
+            "adresse": "Kieler Str. 212, 22525 Hamburg",
+            "beschreibung": "Individuelle Konzertlocation mit urbanem Flair für kleinere Events und Konzerte.",
+            "link": "https://www.rbostudio.com/events/konzertlocation-hamburg"
+        },
+        {
+            "name": "Georg Elser Halle",
+            "adresse": "Feldstraße 66, 20359 Hamburg",
+            "beschreibung": "Moderne Mehrzweckhalle auf dem Heiligengeistfeld mit Platz für bis zu 2.200 Personen.",
+            "link": "https://de.wikipedia.org/wiki/Georg_Elser_Halle"
+        },
+        {
+            "name": "20 Flight Rock",
+            "adresse": "Friedrichstraße 29, 20359 Hamburg",
+            "beschreibung": "Rockabilly-Bar und Live-Club mit nostalgischem Ambiente und regelmäßigem Live-Programm.",
+            "link": "https://www.hamburg-tourism.de/sehen-erleben/kultur-musik/konzertlocations/"
+        },
+        {
+            "name": "Aalhaus",
+            "adresse": "Eggerstedtstraße 39, 22765 Hamburg",
+            "beschreibung": "Gemütlicher Live-Club und Bar, bekannt für seine entspannte Atmosphäre und vielfältige Musikangebote.",
+            "link": "https://www.hamburg-tourism.de/sehen-erleben/kultur-musik/konzertlocations/"
+        },
+        {
+            "name": "Angie's Nightclub",
+            "adresse": "Spielbudenplatz 27, 20359 Hamburg",
+            "beschreibung": "Beliebter Club mit Tanzfläche und regelmäßigem Live-Programm für Nachtschwärmer.",
+            "link": "https://www.hamburg-tourism.de/sehen-erleben/kultur-musik/konzertlocations/"
+        },
+        {
+            "name": "Baalsaal",
+            "adresse": "Reeperbahn 25, 20359 Hamburg",
+            "beschreibung": "Einer der angesagtesten Tanz-Clubs Hamburgs, bekannt für sein abwechslungsreiches Musikprogramm.",
+            "link": "https://www.hamburg-tourism.de/sehen-erleben/kultur-musik/konzertlocations/"
+        },
+        {
+            "name": "Bahnhof Pauli",
+            "adresse": "Spielbudenplatz 22, 20359 Hamburg",
+            "beschreibung": "Kultiger Club im ehemaligen U-Bahn-Schacht, bietet ein abwechslungsreiches Musikprogramm.",
+            "link": "https://www.hamburg-tourism.de/sehen-erleben/kultur-musik/konzertlocations/"
+        },
+        {
+            "name": "MS Stubnitz",
+            "adresse": "HafenCity, 20457 Hamburg",
+            "beschreibung": "Ehemaliges Fischereischiff, heute schwimmende Konzertbühne für elektronische Musik und mehr.",
+            "link": "https://www.elbjazz.de/"
+        },
+        {
+            "name": "Mojo Club",
+            "adresse": "Reeperbahn 1, 20359 Hamburg",
+            "beschreibung": "Legendärer Club für elektronische Musik und Jazz, bekannt für seine intime Atmosphäre.",
+            "link": "https://www.elbjazz.de/"
+        },
+        {
+            "name": "Hafenmuseum",
+            "adresse": "Kaispeicher B, 20457 Hamburg",
+            "beschreibung": "Museum mit regelmäßig stattfindenden Konzerten, besonders während des Elbjazz Festivals.",
+            "link": "https://www.elbjazz.de/"
+        },
+        {
+            "name": "Thalia Zelt",
+            "adresse": "Baakenhöft, 20457 Hamburg",
+            "beschreibung": "Zeltbühne des Thalia Theaters, genutzt für Konzerte im Rahmen des Elbjazz Festivals.",
+            "link": "https://www.elbjazz.de/"
+        },
+        {
+            "name": "Louisiana Star",
+            "adresse": "HafenCity, 20457 Hamburg",
+            "beschreibung": "Historisches Schiff, das während des Elbjazz Festivals als Konzertbühne dient.",
+            "link": "https://www.elbjazz.de/"
+        },
+        {
+            "name": "Fabrik",
+            "adresse": "Barnerstraße 36, 22765 Hamburg",
+            "beschreibung": "Kultige Konzert- und Clublocation in Altona mit Schwerpunkt auf Indie, Weltmusik und Jazz.",
+            "link": "https://www.fabrik.de"
+        },
+        {
+            "name": "Gruenspan",
+            "adresse": "Große Freiheit 58, 22767 Hamburg",
+            "beschreibung": "Ehemaliges Kino aus den 60er Jahren, heute eine der bekanntesten Konzertlocations für Rock und Pop.",
+            "link": "https://www.gruenspan.de"
+        },
+        {
+            "name": "Headcrash",
+            "adresse": "Kleine Freiheit 36, 22767 Hamburg",
+            "beschreibung": "Kleiner Club mit Fokus auf Punk, Hardcore und Metal, bekannt für seine intime Atmosphäre.",
+            "link": "https://www.headcrash.de"
+        },
+        {
+            "name": "Kulturlotse",
+            "adresse": "Große Freiheit 36, 22767 Hamburg",
+            "beschreibung": "Veranstaltungsort für alternative Musik, Theater und Lesungen im Herzen von St. Pauli.",
+            "link": "https://www.kulturlotse.de"
+        },
+        {
+            "name": "Fliegende Bauten",
+            "adresse": "Glacischaussee 4, 20359 Hamburg",
+            "beschreibung": "Imposantes Viermast-Zirkuszelt, das für Zirkus, Theater, Kabarett und Musik genutzt wird.",
+            "link": "https://www.fliegende-bauten.de"
+        },
+        {
+            "name": "Stage Club",
+            "adresse": "Spielbudenplatz 31, 20359 Hamburg",
+            "beschreibung": "Beliebter Club auf der Reeperbahn mit regelmäßigem Live-Programm und Clubnächten.",
+            "link": "https://www.stageclub.de"
+        },
+        {
+            "name": "Knust",
+            "adresse": "Neuer Kamp 30, 20357 Hamburg",
+            "beschreibung": "Alternative Konzertlocation mit Fokus auf Indie, Punk und Singer-Songwriter.",
+            "link": "https://www.knusthamburg.de"
+        },
+        {
+            "name": "Uebel & Gefährlich",
+            "adresse": "Feldstraße 66, 20359 Hamburg",
+            "beschreibung": "Ehemaliger Bunker, heute angesagter Club und Konzertort für elektronische Musik und Indie.",
+            "link": "https://www.uebelundgefaehrlich.com"
+        },
+        {
+            "name": "Molotow",
+            "adresse": "Spielbudenplatz 5, 20359 Hamburg",
+            "beschreibung": "Legendärer Club mit Fokus auf Indie, Punk und Alternative.",
+            "link": "https://www.molotowclub.com"
+        },
+        {
+            "name": "Kukuun",
+            "adresse": "Große Freiheit 36, 22767 Hamburg",
+            "beschreibung": "Kleiner Club mit abwechslungsreichem Musikprogramm von Jazz bis Hip-Hop.",
+            "link": "https://www.kukuun.de"
+        },
+        {
+            "name": "Jazzy Jazz Club",
+            "adresse": "Große Freiheit 36, 22767 Hamburg",
+            "beschreibung": "Intimer Club mit Fokus auf Jazz und Soulmusik.",
+            "link": "https://www.jazzyjazzclub.de"
+        },
+        {
+            "name": "Marias Ballroom",
+            "adresse": "Große Freiheit 36, 22767 Hamburg",
+            "beschreibung": "Kultiger Club mit Schwerpunkt auf Rockabilly, Swing und Soul.",
+            "link": "https://www.mariasballroom.de"
+        },
+        {
+            "name": "Mojo Club",
+            "adresse": "Reeperbahn 1, 20359 Hamburg",
+            "beschreibung": "Legendärer Club für elektronische Musik und Jazz.",
+            "link": "https://www.mojoclub.de"
+        },
+        {
+            "name": "Molotow Skybar",
+            "adresse": "Spielbudenplatz 5, 20359 Hamburg",
+            "beschreibung": "Club mit atemberaubendem Blick über die Stadt und abwechslungsreichem Musikprogramm.",
+            "link": "https://www.molotowclub.com"
+        },
+        {
+            "name": "Kultur Palast",
+            "adresse": "Feldstraße 66, 20359 Hamburg",
+            "beschreibung": "Veranstaltungsort für Konzerte, Theater und Kabarett.",
+            "link": "https://www.kulturpalast.de"
+        },
+        {
+            "name": "Grosse Freiheit 36",
+            "adresse": "Große Freiheit 36, 22767 Hamburg",
+            "beschreibung": "Bekannter Club und Konzertort für Rock, Pop und elektronische Musik.",
+            "link": "https://www.grossefreiheit36.de"
+        },
+        {
+            "name": "Kampnagel",
+            "adresse": "Jarrestraße 20, 22303 Hamburg",
+            "beschreibung": "Interdisziplinäres Zentrum für Musik, Theater und Tanz.",
+            "link": "https://www.kampnagel.de"
+        },
+        {
+            "name": "St. Pauli Theater",
+            "adresse": "Spielbudenplatz 1, 20359 Hamburg",
+            "beschreibung": "Traditionsreiches Theater mit regelmäßigem Musik- und Kabarettprogramm.",
+            "link": "https://www.st-pauli-theater.de"
+        },
+        {
+            "name": "Thalia Theater",
+            "adresse": "Alstertor 1, 20095 Hamburg",
+            "beschreibung": "Eines der ältesten Theater Hamburgs mit vielfältigem Musik- und Schauspielprogramm.",
+            "link": "https://www.thalia-theater.de"
+        },
+        {
+            "name": "Alma Hoppes Lustspielhaus",
+            "adresse": "Ludolfstraße 53, 20249 Hamburg",
+            "beschreibung": "Kultiges Kabaretttheater mit satirischen Programmen und großen Namen der deutschen Kabarettszene.",
+            "link": "https://www.hamburg-travel.com/barrier-free-travel/experience-hamburg-without-limits/accessible-theatres-and-concert-venues-in-hamburg/"
+        },
+        {
+            "name": "Altonaer Theater",
+            "adresse": "Museumstraße 17, 22765 Hamburg",
+            "beschreibung": "Theater mit Aufführungen, die auf Romanen basieren und einzigartige Darbietungen bieten.",
+            "link": "https://www.hamburg-travel.com/barrier-free-travel/experience-hamburg-without-limits/accessible-theatres-and-concert-venues-in-hamburg/"
+        },
+        {
+            "name": "Club 20457",
+            "adresse": "Oskaallee 8, 20457 Hamburg",
+            "beschreibung": "Vielseitiger Club, der Kunst, Literatur und Musik vereint und ein breites kulturelles Programm bietet.",
+            "link": "https://www.hamburg-tourism.de/sehen-erleben/kultur-musik/konzertlocations/"
+        },
+        {
+            "name": "MS Stubnitz",
+            "adresse": "HafenCity, 20457 Hamburg",
+            "beschreibung": "Ehemaliges Fischereischiff, das als schwimmende Konzertbühne für elektronische Musik und mehr dient.",
+            "link": "https://www.elbjazz.de/"
+        },
+        {
+            "name": "Thalia Zelt",
+            "adresse": "Baakenhöft, 20457 Hamburg",
+            "beschreibung": "Zeltbühne des Thalia Theaters, genutzt für Konzerte im Rahmen des Elbjazz Festivals.",
+            "link": "https://www.elbjazz.de/"
+        },
+        {
+            "name": "Louisiana Star",
+            "adresse": "HafenCity, 20457 Hamburg",
+            "beschreibung": "Historisches Schiff, das während des Elbjazz Festivals als Konzertbühne dient.",
+            "link": "https://www.elbjazz.de/"
+        },
+        {
+            "name": "Fabrik",
+            "adresse": "Barnerstraße 36, 22765 Hamburg",
+            "beschreibung": "Kultige Konzert- und Clublocation in Altona mit Schwerpunkt auf Indie, Weltmusik und Jazz.",
+            "link": "https://www.fabrik.de"
+        },
+        {
+            "name": "Gruenspan",
+            "adresse": "Große Freiheit 58, 22767 Hamburg",
+            "beschreibung": "Ehemaliges Kino aus den 60er Jahren, heute eine der bekanntesten Konzertlocations für Rock und Pop.",
+            "link": "https://www.gruenspan.de"
+        },
+        {
+            "name": "Headcrash",
+            "adresse": "Kleine Freiheit 36, 22767 Hamburg",
+            "beschreibung": "Kleiner Club mit Fokus auf Punk, Hardcore und Metal, bekannt für seine intime Atmosphäre.",
+            "link": "https://www.headcrash.de"
+        },
+        {
+            "name": "Kulturlotse",
+            "adresse": "Große Freiheit 36, 22767 Hamburg",
+            "beschreibung": "Veranstaltungsort für alternative Musik, Theater und Lesungen im Herzen von St. Pauli.",
+            "link": "https://www.kulturlotse.de"
+        },
+        {
+            "name": "Fliegende Bauten",
+            "adresse": "Glacischaussee 4, 20359 Hamburg",
+            "beschreibung": "Imposantes Viermast-Zirkuszelt, das für Zirkus, Theater, Kabarett und Musik genutzt wird.",
+            "link": "https://www.fliegende-bauten.de"
+        },
+        {
+            "name": "Stage Club",
+            "adresse": "Spielbudenplatz 31, 20359 Hamburg",
+            "beschreibung": "Beliebter Club auf der Reeperbahn mit regelmäßigem Live-Programm und Clubnächten.",
+            "link": "https://www.stageclub.de"
+        },
+        {
+            "name": "Knust",
+            "adresse": "Neuer Kamp 30, 20357 Hamburg",
+            "beschreibung": "Alternative Konzertlocation mit Fokus auf Indie, Punk und Singer-Songwriter.",
+            "link": "https://www.knusthamburg.de"
+        },
+        {
+            "name": "Uebel & Gefährlich",
+            "adresse": "Feldstraße 66, 20359 Hamburg",
+            "beschreibung": "Ehemaliger Bunker, heute angesagter Club und Konzertort für elektronische Musik und Indie.",
+            "link": "https://www.uebelundgefaehrlich.com"
+        },
+        {
+            "name": "Molotow",
+            "adresse": "Spielbudenplatz 5, 20359 Hamburg",
+            "beschreibung": "Legendärer Club mit Fokus auf Indie, Punk und Alternative.",
+            "link": "https://www.molotowclub.com"
+        },
+        {
+            "name": "Kukuun",
+            "adresse": "Große Freiheit 36, 22767 Hamburg",
+            "beschreibung": "Kleiner Club mit abwechslungsreichem Musikprogramm von Jazz bis Hip-Hop.",
+            "link": "https://www.kukuun.de"
+        },
+        {
+            "name": "Jazzy Jazz Club",
+            "adresse": "Große Freiheit 36, 22767 Hamburg",
+            "beschreibung": "Intimer Club mit Fokus auf Jazz und Soulmusik.",
+            "link": "https://www.jazzyjazzclub.de"
+        },
+        {
+            "name": "Marias Ballroom",
+            "adresse": "Große Freiheit 36, 22767 Hamburg",
+            "beschreibung": "Kultiger Club mit Schwerpunkt auf Rockabilly, Swing und Soul.",
+            "link": "https://www.mariasballroom.de"
+        },
+        {
+            "name": "Mojo Club",
+            "adresse": "Reeperbahn 1, 20359 Hamburg",
+            "beschreibung": "Legendärer Club für elektronische Musik und Jazz.",
+            "link": "https://www.mojoclub.de"
+        },
+        {
+            "name": "Molotow Skybar",
+            "adresse": "Spielbudenplatz 5, 20359 Hamburg",
+            "beschreibung": "Club mit atemberaubendem Blick über die Stadt und abwechslungsreichem Musikprogramm.",
+            "link": "https://www.molotowclub.com"
+        },
+        {
+            "name": "Kultur Palast",
+            "adresse": "Feldstraße 66, 20359 Hamburg",
+            "beschreibung": "Veranstaltungsort für Konzerte, Theater und Kabarett.",
+            "link": "https://www.kulturpalast.de"
+        }
+    ]
+}

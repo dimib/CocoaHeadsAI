@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "CocoaHeads-Hamburg-512-AppIcon.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

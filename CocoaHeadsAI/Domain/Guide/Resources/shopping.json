@@ -1,0 +1,124 @@
+{
+    "items": [
+        {
+            "name": "Alstertal Einkaufs-Zentrum",
+            "adresse": "Heegbarg 31, 22391 Hamburg",
+            "beschreibung": "Eines der größten Einkaufszentren Hamburgs mit über 240 Geschäften, darunter Mode, Elektronik, Lebensmittel und mehr.",
+            "link": "https://www.alstertal-einkaufszentrum.de/shops/alle/"
+        },
+        {
+            "name": "Billstedt-Center",
+            "adresse": "Möllner Landstraße 3, 22111 Hamburg",
+            "beschreibung": "Einkaufszentrum mit über 100 Geschäften, darunter Mode, Elektronik und Lebensmittel.",
+            "link": "https://www.billstedt-center.de/"
+        },
+        {
+            "name": "Europa Passage",
+            "adresse": "Ballindamm 40, 20095 Hamburg",
+            "beschreibung": "Moderne Einkaufspassage mit einer Vielzahl von Geschäften, Restaurants und einem Kino.",
+            "link": "https://www.europa-passage.de/shops/alle/"
+        },
+        {
+            "name": "Hamburger Meile",
+            "adresse": "Hamburger Str. 274, 22083 Hamburg",
+            "beschreibung": "Einkaufszentrum mit über 150 Geschäften, darunter Mode, Elektronik und Lebensmittel.",
+            "link": "https://www.hamburger-meile.com/shops/alle/"
+        },
+        {
+            "name": "Westfield Hamburg-Überseequartier",
+            "adresse": "Am Überseequartier, 20457 Hamburg",
+            "beschreibung": "Großes Einkaufszentrum mit über 200 Geschäften, darunter Mode, Elektronik und Lebensmittel.",
+            "link": "https://www.westfield.com/de/germany/hamburg/centerplan"
+        },
+        {
+            "name": "Levantehaus",
+            "adresse": "Mönckebergstraße 7, 20095 Hamburg",
+            "beschreibung": "Historisches Kaufhaus mit einer Vielzahl von Luxusmarken und Boutiquen.",
+            "link": "https://www.yelp.com/search?cflt=shoppingcenters&find_loc=Hamburg"
+        },
+        {
+            "name": "Galleria Kaufhof",
+            "adresse": "Mönckebergstraße 1, 20095 Hamburg",
+            "beschreibung": "Großes Kaufhaus mit einer breiten Produktpalette, darunter Mode, Kosmetik und Haushaltswaren.",
+            "link": "https://www.galeria.de/"
+        },
+        {
+            "name": "Alsterhaus",
+            "adresse": "Jungfernstieg 16, 20354 Hamburg",
+            "beschreibung": "Luxuriöses Kaufhaus mit einer Vielzahl von Designer-Marken und exklusiven Produkten.",
+            "link": "https://www.alsterhaus.de/"
+        },
+        {
+            "name": "Mönckebergstraße",
+            "adresse": "Mönckebergstraße, 20095 Hamburg",
+            "beschreibung": "Eine der bekanntesten Einkaufsstraßen Hamburgs mit einer Vielzahl von Geschäften und Boutiquen.",
+            "link": "https://en.wikipedia.org/wiki/M%C3%B6nckebergstra%C3%9Fe"
+        },
+        {
+            "name": "Spitalerstraße",
+            "adresse": "Spitalerstraße, 20095 Hamburg",
+            "beschreibung": "Beliebte Einkaufsstraße mit einer Vielzahl von Geschäften und Kaufhäusern.",
+            "link": "https://en.wikipedia.org/wiki/Spitalerstra%C3%9Fe"
+        },
+        {
+            "name": "Jungfernstieg",
+            "adresse": "Jungfernstieg, 20354 Hamburg",
+            "beschreibung": "Elegante Einkaufsstraße am Alsterufer mit einer Vielzahl von Geschäften und Cafés.",
+            "link": "https://www.hamburg-travel.com/shopping-enjoying/shopping-in-hamburg/"
+        },
+        {
+            "name": "Neuer Wall",
+            "adresse": "Neuer Wall, 20354 Hamburg",
+            "beschreibung": "Luxuriöse Einkaufsstraße mit exklusiven Boutiquen und Designer-Geschäften.",
+            "link": "https://www.hamburg-travel.com/shopping-enjoying/shopping-in-hamburg/"
+        },
+        {
+            "name": "Hanseviertel",
+            "adresse": "Große Bleichen, 20354 Hamburg",
+            "beschreibung": "Elegantes Einkaufszentrum mit einer Vielzahl von Boutiquen und Cafés.",
+            "link": "https://www.tripadvisor.de/Attractions-g187331-Activities-c26-Hamburg.html"
+        },
+        {
+            "name": "Isemarkt",
+            "adresse": "Isestraße, 20259 Hamburg",
+            "beschreibung": "Bekannter Wochenmarkt mit einer Vielzahl von frischen Produkten und Delikatessen.",
+            "link": "https://www.tripadvisor.de/Attractions-g187331-Activities-c26-Hamburg.html"
+        },
+        {
+            "name": "Alsterarkaden",
+            "adresse": "Alsterarkaden, 20354 Hamburg",
+            "beschreibung": "Historische Passage mit einer Vielzahl von Geschäften und Cafés.",
+            "link": "https://www.hamburg-tourism.de/shoppen-geniessen/shoppen-in-hamburg/shopping-von-a-bis-z/"
+        },
+        {
+            "name": "Hanseviertel",
+            "adresse": "Große Bleichen, 20354 Hamburg",
+            "beschreibung": "Elegantes Einkaufszentrum mit einer Vielzahl von Boutiquen und Cafés.",
+            "link": "https://www.tripadvisor.de/Attractions-g187331-Activities-c26-Hamburg.html"
+        },
+        {
+            "name": "Westfield Hamburg-Überseequartier",
+            "adresse": "Am Überseequartier, 20457 Hamburg",
+            "beschreibung": "Großes Einkaufszentrum mit über 200 Geschäften, darunter Mode, Elektronik und Lebensmittel.",
+            "link": "https://www.westfield.com/de/germany/hamburg/centerplan"
+        },
+        {
+            "name": "Billstedt-Center",
+            "adresse": "Möllner Landstraße 3, 22111 Hamburg",
+            "beschreibung": "Einkaufszentrum mit über 100 Geschäften, darunter Mode, Elektronik und Lebensmittel.",
+            "link": "https://www.billstedt-center.de/"
+        },
+        {
+            "name": "Europa Passage",
+            "adresse": "Ballindamm 40, 20095 Hamburg",
+            "beschreibung": "Moderne Einkaufspassage mit einer Vielzahl von Geschäften, Restaurants und einem Kino.",
+            "link": "https://www.europa-passage.de/shops/alle/"
+        },
+        {
+            "name": "Hamburger Meile",
+            "adresse": "Hamburger Str. 274, 22083 Hamburg",
+            "beschreibung": "Einkaufszentrum mit über 150 Geschäften, darunter Mode, Elektronik und Lebensmittel.",
+            "link": "https://www.hamburger-meile.com/shops/alle/"
+        }
+    ]
+}

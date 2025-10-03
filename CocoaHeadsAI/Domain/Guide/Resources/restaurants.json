@@ -1,0 +1,352 @@
+{
+    "items": [
+        {
+            "name": "Haerlin",
+            "adresse": "Neuer Jungfernstieg 9-14, 20354 Hamburg",
+            "beschreibung": "Luxuriöses Restaurant im Hotel Vier Jahreszeiten mit 3 Michelin-Sternen, bekannt für kreative französisch-deutsche Küche.",
+            "link": "https://www.haerlin.de"
+        },
+        {
+            "name": "The Table",
+            "adresse": "Überseeallee 5, 20457 Hamburg",
+            "beschreibung": "Innovatives Fine-Dining-Restaurant von Kevin Fehling mit 3 Michelin-Sternen, bietet ein einzigartiges 360-Grad-Dining-Erlebnis.",
+            "link": "https://www.the-table.de"
+        },
+        {
+            "name": "100/200 Kitchen",
+            "adresse": "Überseeallee 5, 20457 Hamburg",
+            "beschreibung": "Modernes Restaurant mit 2 Michelin-Sternen, bekannt für kreative Küche und nachhaltige Zutaten.",
+            "link": "https://www.100200kitchen.de"
+        },
+        {
+            "name": "Bianc",
+            "adresse": "Am Sandtorkai 19, 20457 Hamburg",
+            "beschreibung": "Elegantes Fine-Dining-Restaurant mit 2 Michelin-Sternen, spezialisiert auf moderne europäische Küche.",
+            "link": "https://www.bianc.de"
+        },
+        {
+            "name": "Lakeside",
+            "adresse": "Neuer Jungfernstieg 9-14, 20354 Hamburg",
+            "beschreibung": "Gehobenes Restaurant im Hotel Fontenay mit 2 Michelin-Sternen, bietet saisonale Küche mit regionalen Zutaten.",
+            "link": "https://www.lakeside-hamburg.de"
+        },
+        {
+            "name": "Petit Amour",
+            "adresse": "Ottenser Hauptstraße 10, 22765 Hamburg",
+            "beschreibung": "Gemütliches französisches Bistro mit einem Michelin-Stern, bekannt für klassische französische Gerichte.",
+            "link": "https://www.petitamour.de"
+        },
+        {
+            "name": "The Lisbeth",
+            "adresse": "Neuer Wall 10, 20354 Hamburg",
+            "beschreibung": "Modernes Restaurant mit einem Michelin-Stern, bietet kreative europäische Küche in stilvollem Ambiente.",
+            "link": "https://www.thelisbeth.de"
+        },
+        {
+            "name": "Grill Royal",
+            "adresse": "Alsterufer 2, 20354 Hamburg",
+            "beschreibung": "Elegantes Steakhouse mit Blick auf die Binnenalster, bekannt für hochwertige Fleischgerichte.",
+            "link": "https://www.grillroyal.de"
+        },
+        {
+            "name": "Henssler & Henssler",
+            "adresse": "Große Elbstraße 145, 22767 Hamburg",
+            "beschreibung": "Modernes Restaurant mit Fokus auf japanisch-europäische Fusionküche, bekannt für Sushi und kreative Gerichte.",
+            "link": "https://www.henssler-henssler.de"
+        },
+        {
+            "name": "Fischereihafen Restaurant",
+            "adresse": "Große Elbstraße 143, 22767 Hamburg",
+            "beschreibung": "Traditionsreiches Restaurant mit Fokus auf frische Fischgerichte und maritime Küche.",
+            "link": "https://www.fischereihafenrestaurant.de"
+        },
+        {
+            "name": "Le Canard Nouveau",
+            "adresse": "Elbchaussee 139, 22763 Hamburg",
+            "beschreibung": "Elegantes Restaurant mit französischer Küche, bekannt für Entenspezialitäten und erlesene Weine.",
+            "link": "https://www.lecanardnouveau.de"
+        },
+        {
+            "name": "Landhaus Scherrer",
+            "adresse": "Elbchaussee 139, 22763 Hamburg",
+            "beschreibung": "Traditionsreiches Restaurant mit klassischer deutscher Küche, bekannt für Labskaus und regionale Spezialitäten.",
+            "link": "https://www.landhausscherrer.de"
+        },
+        {
+            "name": "Se7en Oceans",
+            "adresse": "Alter Elbtunnel 1, 20457 Hamburg",
+            "beschreibung": "Modernes Restaurant mit Fokus auf Fischgerichte und mediterrane Küche, bietet Blick auf den Hafen.",
+            "link": "https://www.se7enoceans.de"
+        },
+        {
+            "name": "Piment",
+            "adresse": "Große Elbstraße 143, 22767 Hamburg",
+            "beschreibung": "Kreatives Restaurant mit moderner europäischer Küche, bekannt für innovative Gerichte und stilvolles Ambiente.",
+            "link": "https://www.piment-hamburg.de"
+        },
+        {
+            "name": "Trüffelschwein",
+            "adresse": "Neuer Wall 10, 20354 Hamburg",
+            "beschreibung": "Gehobenes Restaurant mit Fokus auf Trüffelgerichte und saisonale Küche.",
+            "link": "https://www.trueffelschwein.de"
+        },
+        {
+            "name": "Arc",
+            "adresse": "Schulterblatt 53, 20357 Hamburg",
+            "beschreibung": "Modernes Restaurant mit Fokus auf saisonale Küche und regionalen Zutaten.",
+            "link": "https://www.arc-hamburg.de"
+        },
+        {
+            "name": "XO Seafood Bar",
+            "adresse": "Große Elbstraße 145, 22767 Hamburg",
+            "beschreibung": "Elegante Bar und Restaurant mit Fokus auf frische Meeresfrüchte und asiatische Fusionküche.",
+            "link": "https://www.xoseafoodbar.de"
+        },
+        {
+            "name": "Marend",
+            "adresse": "Feldstraße 66, 20357 Hamburg",
+            "beschreibung": "Gemütliches Restaurant mit alpenländischer Küche, bekannt für Knödelgerichte und regionale Spezialitäten.",
+            "link": "https://www.marend-hamburg.de"
+        },
+        {
+            "name": "Le Plat du Jour",
+            "adresse": "Gänsemarkt 36, 20354 Hamburg",
+            "beschreibung": "Authentisches französisches Bistro mit klassischer Küche, bekannt für täglich wechselnde Gerichte.",
+            "link": "https://www.leplatdujour.de"
+        },
+        {
+            "name": "Fischereihafen Restaurant",
+            "adresse": "Große Elbstraße 143, 22767 Hamburg",
+            "beschreibung": "Traditionsreiches Restaurant mit Fokus auf frische Fischgerichte und maritime Küche.",
+            "link": "https://www.fischereihafenrestaurant.de"
+        },
+        {
+            "name": "Grill Royal Hamburg",
+            "adresse": "Alsterufer 2, 20354 Hamburg",
+            "beschreibung": "Elegantes Steakhouse mit Blick auf die Binnenalster, bekannt für hochwertige Fleischgerichte.",
+            "link": "https://www.grillroyal.de"
+        },
+        {
+            "name": "La Maison d'Avignon",
+            "adresse": "Große Bleichen 36, 20354 Hamburg",
+            "beschreibung": "Französisches Restaurant mit mediterraner Küche und eleganter Atmosphäre.",
+            "link": "https://www.lamaisondavignon.de"
+        },
+        {
+            "name": "Le Canard",
+            "adresse": "Elbchaussee 139, 22763 Hamburg",
+            "beschreibung": "Modernes französisches Restaurant mit kreativen Gerichten und Elbblick.",
+            "link": "https://www.lecanard.de"
+        },
+        {
+            "name": "Weinwirtschaft Kleines Jacob",
+            "adresse": "Neuer Wall 63, 20354 Hamburg",
+            "beschreibung": "Österreichische Küche mit Fokus auf Weinbegleitung und saisonale Zutaten.",
+            "link": "https://www.kleinesjacob.de"
+        },
+        {
+            "name": "GLORIE",
+            "adresse": "Mönckebergstraße 7, 20095 Hamburg",
+            "beschreibung": "Klassische Küche mit modernen Akzenten in stilvollem Ambiente.",
+            "link": "https://www.glorie-hamburg.de"
+        },
+        {
+            "name": "Portomarin",
+            "adresse": "Neuer Wall 80, 20354 Hamburg",
+            "beschreibung": "Spanisches Restaurant mit authentischen Tapas und Weinen.",
+            "link": "https://www.portomarin.de"
+        },
+        {
+            "name": "Philipps Restaurant",
+            "adresse": "Schulterblatt 53, 20357 Hamburg",
+            "beschreibung": "Internationale Küche mit kreativen Gerichten und gemütlicher Atmosphäre.",
+            "link": "https://www.philipps-restaurant.de"
+        },
+        {
+            "name": "NIKKEI NINE",
+            "adresse": "Neuer Wall 10, 20354 Hamburg",
+            "beschreibung": "Fusion aus japanischer und peruanischer Küche mit stilvollem Interieur.",
+            "link": "https://www.nikkeinine.de"
+        },
+        {
+            "name": "O-Ren Ishii",
+            "adresse": "Schulterblatt 53, 20357 Hamburg",
+            "beschreibung": "Südostasiatische Küche mit Fokus auf authentische Aromen.",
+            "link": "https://www.orenishii.de"
+        },
+        {
+            "name": "Hanoi Deli Rathaus",
+            "adresse": "Rathausstraße 1, 20095 Hamburg",
+            "beschreibung": "Vietnamese Streetfood mit frischen Zutaten und schnellen Gerichten.",
+            "link": "https://www.hanoideli.de"
+        },
+        {
+            "name": "Sagebiels Fährhaus",
+            "adresse": "Treppenstraße 1, 22587 Hamburg",
+            "beschreibung": "Traditionsreiches Restaurant mit Elbblick und norddeutscher Küche.",
+            "link": "https://www.sagebielsfaehrhaus.de"
+        },
+        {
+            "name": "Landhaus Scherrer",
+            "adresse": "Elbchaussee 139, 22763 Hamburg",
+            "beschreibung": "Klassische deutsche Küche mit regionalen Spezialitäten.",
+            "link": "https://www.landhausscherrer.de"
+        },
+        {
+            "name": "Jellyfish",
+            "adresse": "Elbchaussee 139, 22763 Hamburg",
+            "beschreibung": "Innovative Küche mit Fokus auf Fisch und Meeresfrüchte.",
+            "link": "https://www.jellyfish-hamburg.de"
+        },
+        {
+            "name": "Heldenplatz",
+            "adresse": "Neuer Wall 10, 20354 Hamburg",
+            "beschreibung": "Moderne europäische Küche mit kreativen Gerichten.",
+            "link": "https://www.heldenplatz.de"
+        },
+        {
+            "name": "o-ren ishii",
+            "adresse": "Schulterblatt 53, 20357 Hamburg",
+            "beschreibung": "Südostasiatische Küche mit Fokus auf authentische Aromen.",
+            "link": "https://www.orenishii.de"
+        },
+        {
+            "name": "Nord Coast Coffee Roastery",
+            "adresse": "Deichstraße 9, 20459 Hamburg",
+            "beschreibung": "Kaffeespezialitäten und Brunch in modernem Ambiente.",
+            "link": "https://www.nordcoastcoffee.de"
+        },
+        {
+            "name": "Kartoffel Keller",
+            "adresse": "Große Freiheit 10, 22767 Hamburg",
+            "beschreibung": "Traditionelle deutsche Küche mit Schwerpunkt auf Kartoffelgerichten.",
+            "link": "https://www.kartoffel-keller.de"
+        },
+        {
+            "name": "Otto's Burger",
+            "adresse": "Schulterblatt 61, 20357 Hamburg",
+            "beschreibung": "Burgerspezialitäten mit frischen Zutaten und kreativen Kombinationen.",
+            "link": "https://www.ottosburger.de"
+        },
+        {
+            "name": "Cafe Johanna",
+            "adresse": "Schulterblatt 53, 20357 Hamburg",
+            "beschreibung": "Gemütliches Café mit hausgemachten Kuchen und Kaffeespezialitäten.",
+            "link": "https://www.cafejohanna.de"
+        },
+        {
+            "name": "Heritage – Rooftop Restaurant",
+            "adresse": "An der Alster 52, 20099 Hamburg",
+            "beschreibung": "Modernes Fine-Dining-Restaurant im Le Méridien Hotel mit atemberaubendem Blick auf die Alster.",
+            "link": "https://www.marriott.com/de/hotels/hammd-le-meridien-hamburg/dining/"
+        },
+        {
+            "name": "am kai",
+            "adresse": "Große Elbstraße 145, 22767 Hamburg",
+            "beschreibung": "Elegantes Fischrestaurant mit frischen Meeresfrüchten und Blick auf den Hamburger Hafen.",
+            "link": "https://amkai.hamburg"
+        },
+        {
+            "name": "Kitchens",
+            "adresse": "Am Sandtorkai 46, 20457 Hamburg",
+            "beschreibung": "Internationales Restaurant mit über 80 verschiedenen Gerichten aus aller Welt.",
+            "link": "https://kitchens-hamburg.de"
+        },
+        {
+            "name": "Clouds – Heaven’s Bar & Kitchen",
+            "adresse": "Reeperbahn 1, 20359 Hamburg",
+            "beschreibung": "Stylisches Restaurant und Bar mit Panoramablick über Hamburg.",
+            "link": "https://www.clouds-hamburg.de"
+        },
+        {
+            "name": "Fischereihafen Restaurant",
+            "adresse": "Große Elbstraße 143, 22767 Hamburg",
+            "beschreibung": "Traditionsreiches Restaurant mit Fokus auf norddeutsche Fischgerichte.",
+            "link": "https://www.fischereihafenrestaurant.de"
+        },
+        {
+            "name": "Block House",
+            "adresse": "Spitalerstraße 22, 20095 Hamburg",
+            "beschreibung": "Bekannte Steakhaus-Kette mit hochwertigem Fleisch und gemütlichem Ambiente.",
+            "link": "https://www.block-house.de"
+        },
+        {
+            "name": "Ono by Steffen Henssler",
+            "adresse": "Hoheluftchaussee 25, 20253 Hamburg",
+            "beschreibung": "Modernes japanisches Restaurant mit Sushi und Grillgerichten.",
+            "link": "https://www.ono-hamburg.de"
+        },
+        {
+            "name": "Bullerei",
+            "adresse": "Schulterblatt 71, 20357 Hamburg",
+            "beschreibung": "Trendiges Restaurant von Tim Mälzer mit regionaler Küche und urbanem Flair.",
+            "link": "https://www.bullerei.com"
+        },
+        {
+            "name": "Speisewirtschaft Opitz",
+            "adresse": "Eppendorfer Weg 151, 20253 Hamburg",
+            "beschreibung": "Gemütliches Restaurant mit saisonaler Küche und regionalen Zutaten.",
+            "link": "https://www.speisewirtschaft-opitz.de"
+        },
+        {
+            "name": "MOMO",
+            "adresse": "Schulterblatt 53, 20357 Hamburg",
+            "beschreibung": "Asiatisches Restaurant mit Fokus auf frische Zutaten und kreative Gerichte.",
+            "link": "https://www.momo-hamburg.de"
+        },
+        {
+            "name": "Erika's Eck",
+            "adresse": "Reeperbahn 1, 20359 Hamburg",
+            "beschreibung": "Kultige Kneipe mit herzhaften Gerichten und legendärem Frühstück.",
+            "link": "https://www.erikaseck.de"
+        },
+        {
+            "name": "Frau Möller",
+            "adresse": "Schulterblatt 65, 20357 Hamburg",
+            "beschreibung": "Traditionsreiche Gaststätte mit norddeutscher Küche und gemütlichem Ambiente.",
+            "link": "https://www.frau-moeller.de"
+        },
+        {
+            "name": "Tante Anna",
+            "adresse": "Schulterblatt 58, 20357 Hamburg",
+            "beschreibung": "Klassisches Café und Restaurant mit hausgemachten Kuchen und regionaler Küche.",
+            "link": "https://www.tanteanna.de"
+        },
+        {
+            "name": "Kleines Jacob",
+            "adresse": "Neuer Wall 63, 20354 Hamburg",
+            "beschreibung": "Österreichisches Restaurant mit gehobener Küche und erlesenen Weinen.",
+            "link": "https://www.kleinesjacob.de"
+        },
+        {
+            "name": "Neni Hamburg",
+            "adresse": "Elbphilharmonie, Platz der Deutschen Einheit 1, 20457 Hamburg",
+            "beschreibung": "Internationales Restaurant mit mediterranen und orientalischen Einflüssen.",
+            "link": "https://www.neni-hamburg.de"
+        },
+        {
+            "name": "Vlet",
+            "adresse": "Alter Wandrahm 19, 20457 Hamburg",
+            "beschreibung": "Modernes Restaurant mit norddeutscher Küche und maritimem Flair.",
+            "link": "https://www.vlet.de"
+        },
+        {
+            "name": "Tschebull",
+            "adresse": "Neuer Wall 10, 20354 Hamburg",
+            "beschreibung": "Österreichisches Restaurant mit klassischer Küche und eleganter Atmosphäre.",
+            "link": "https://www.tschebull.de"
+        },
+        {
+            "name": "Café Paris",
+            "adresse": "Alstertor 63, 20095 Hamburg",
+            "beschreibung": "Französisches Café-Restaurant mit klassischer Küche und stilvollem Ambiente.",
+            "link": "https://www.cafeparis.de"
+        },
+        {
+            "name": "Kaisergarten",
+            "adresse": "Mönckebergstraße 7, 20095 Hamburg",
+            "beschreibung": "Chinesisches Restaurant mit traditioneller Küche und modernen Akzenten.",
+            "link": "https://www.kaisergarten.de"
+        }        
+    ]
+}

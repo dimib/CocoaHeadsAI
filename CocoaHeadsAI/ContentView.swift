@@ -11,8 +11,39 @@ import SwiftData
 struct ContentView: View {
     @Environment(\.modelContext) private var modelContext
     @Query private var items: [Item]
-
+    
+    @State var prompt: String = "Hello?"
+    
     var body: some View {
+        NavigationStack {
+            VStack {
+                List {
+                    HStack {
+                        Image(.cocoaHeads)
+                            .resizable()
+                            .frame(maxWidth: 126, maxHeight: 128)
+                        Spacer()
+                        Image(.foundationModels)
+                            .resizable()
+                            .frame(maxWidth: 126, maxHeight: 128)
+                    }
+                    .frame(alignment: .center)
+                    .padding()
+
+                    NavigationLink("Ask me anything") {
+                        AskMeAnythingView()
+                            .navigationTitle("Ask me Anything")
+                            .environment(AskMeAnythingEnvironment())
+                    }
+                }
+                .background(.ultraThinMaterial)
+            }
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .background(Color(.white))
+        }
+    }
+
+    var bodyX: some View {
         NavigationSplitView {
             List {
                 ForEach(items) { item in
