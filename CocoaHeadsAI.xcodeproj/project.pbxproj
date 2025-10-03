@@ -10,6 +10,7 @@
 		36CCD3522E8FCC5C0029D597 /* TripPlanner in Frameworks */ = {isa = PBXBuildFile; productRef = 36CCD3512E8FCC5C0029D597 /* TripPlanner */; };
 		36CCD3552E8FCCE70029D597 /* TripPlanner in Frameworks */ = {isa = PBXBuildFile; productRef = 36CCD3542E8FCCE70029D597 /* TripPlanner */; };
 		36CCD3CA2E8FD03B0029D597 /* TripPlanner in Frameworks */ = {isa = PBXBuildFile; productRef = 36CCD3C92E8FD03B0029D597 /* TripPlanner */; };
+		36CCD3D62E8FEFDC0029D597 /* DBOpenAIClient in Frameworks */ = {isa = PBXBuildFile; productRef = 36CCD3D52E8FEFDC0029D597 /* DBOpenAIClient */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36CCD3D62E8FEFDC0029D597 /* DBOpenAIClient in Frameworks */,
 				36CCD3552E8FCCE70029D597 /* TripPlanner in Frameworks */,
 				36CCD3522E8FCC5C0029D597 /* TripPlanner in Frameworks */,
 			);
@@ -149,6 +151,7 @@
 			packageProductDependencies = (
 				36CCD3512E8FCC5C0029D597 /* TripPlanner */,
 				36CCD3542E8FCCE70029D597 /* TripPlanner */,
+				36CCD3D52E8FEFDC0029D597 /* DBOpenAIClient */,
 			);
 			productName = CocoaHeadsAI;
 			productReference = 36CCD31C2E8FC4C30029D597 /* CocoaHeadsAI.app */;
@@ -235,6 +238,7 @@
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
 				36CCD3532E8FCCE70029D597 /* XCLocalSwiftPackageReference "../TripPlanner" */,
+				36CCD3D42E8FEFDC0029D597 /* XCLocalSwiftPackageReference "../../../Projects/DBTools/db-openai-client" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 36CCD31D2E8FC4C30029D597 /* Products */;
@@ -684,6 +688,10 @@
 			isa = XCLocalSwiftPackageReference;
 			relativePath = ../TripPlanner;
 		};
+		36CCD3D42E8FEFDC0029D597 /* XCLocalSwiftPackageReference "../../../Projects/DBTools/db-openai-client" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = "../../../Projects/DBTools/db-openai-client";
+		};
 /* End XCLocalSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -699,6 +707,10 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 36CCD3532E8FCCE70029D597 /* XCLocalSwiftPackageReference "../TripPlanner" */;
 			productName = TripPlanner;
+		};
+		36CCD3D52E8FEFDC0029D597 /* DBOpenAIClient */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = DBOpenAIClient;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

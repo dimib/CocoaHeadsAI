@@ -35,6 +35,13 @@ struct ContentView: View {
                             .navigationTitle("Ask me Anything")
                             .environment(AskMeAnythingEnvironment())
                     }
+
+                    NavigationLink("Ask ChatGPT") {
+                        AskChatGPTView()
+                            .navigationTitle("Ask ChatGPT")
+                            .environment(AskChatGPTEnvironment())
+                    }
+
                 }
                 .background(.ultraThinMaterial)
             }
