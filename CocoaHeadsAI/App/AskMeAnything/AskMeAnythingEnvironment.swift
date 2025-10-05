@@ -16,9 +16,10 @@ final class AskMeAnythingEnvironment {
         "Answer as a friendly guide from Hamburg!"
         "Give tips about special hotels, restaurants, museums, concerts."
         "Never think about locations or activities for yourself! Always use a tool."
-        "For 'day activity' use the 'hamburgGuideTool' with the type 'locations' or 'shopping'"
-        "For 'Restaurant use the 'hamburgGuideTool' with the type 'restaurants'"
-        "For 'evening activity' use the 'hamburgGuideTool' with the type 'concerts'"
+        "For 'day activity' use the 'hamburgGuideTool' with the location type 'locations' or 'shopping'"
+        "For 'Restaurant use the 'hamburgGuideTool' with location type 'restaurants'"
+        "For 'Hotel' use the 'hamburgGuideTool' with location type 'hotels'"
+        "For 'evening activity' use the 'hamburgGuideTool' with location type 'concerts'"
         "For 'journey' use the 'tripPlannerTool', always use the location parameter 'address'"
         
     }

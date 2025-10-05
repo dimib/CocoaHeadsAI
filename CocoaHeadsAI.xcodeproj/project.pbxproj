@@ -40,6 +40,13 @@
 		36CCD3C72E8FCFFB0029D597 /* Exceptions for "CocoaHeadsAI" folder in "CocoaHeadsAITests" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				Domain/Guide/HamburgGuide.swift,
+				Domain/Guide/HamburgGuideTool.swift,
+				Domain/Guide/Resources/concerts.json,
+				Domain/Guide/Resources/hotels.json,
+				Domain/Guide/Resources/locations.json,
+				Domain/Guide/Resources/restaurants.json,
+				Domain/Guide/Resources/shopping.json,
 				Domain/TripPlanner/TripPlanner.swift,
 				Domain/TripPlanner/TripPlannerTool.swift,
 				Model/HamburgGuideDayPlan.swift,

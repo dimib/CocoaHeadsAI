@@ -32,14 +32,28 @@ struct AskMeAnythingView: View {
             NiceTextInputField(textInput: $textInput, isThinking: $isThinking) {
                 Task {
                     isThinking = true
+                    addEmptyCard(placeholder: textInput)
                     let answer = try await enviroment.ask(textInput)
-                    answers.append(answer)
+                    replaceLastCard(with: answer)
                     isThinking = false
                     textInput = ""
                 }
             }
         })
         .frame(maxWidth: .infinity, maxHeight: .infinity)
+    }
+    
+    func addEmptyCard(placeholder: String) {
+        withAnimation {
+            answers.append(placeholder)
+        }
+    }
+    
+    func replaceLastCard(with string: String) {
+        withAnimation {
+            answers.removeLast()
+            answers.append(string)
+        }
     }
     
     private func send() {

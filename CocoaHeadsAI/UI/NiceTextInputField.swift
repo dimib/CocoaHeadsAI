@@ -24,9 +24,9 @@ struct NiceTextInputField: View {
             TextField("Ask me…", text: $textInput, axis: .vertical)
                 .textFieldStyle(.plain)
                 .lineLimit(1...4)
-                .textInputAutocapitalization(.sentences)
+//                .textInputAutocapitalization(.sentences)
                 .autocorrectionDisabled(false)
-                .submitLabel(.send)
+//                .submitLabel(.send)
                 .onSubmit(onSubmit)
                 .disabled(isThinking)
             

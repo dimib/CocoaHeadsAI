@@ -18,30 +18,33 @@ struct ContentView: View {
         NavigationStack {
             VStack {
                 List {
-                    HStack {
-                        Image(.cocoaHeads)
-                            .resizable()
-                            .frame(maxWidth: 126, maxHeight: 128)
-                        Spacer()
-                        Image(.foundationModels)
-                            .resizable()
-                            .frame(maxWidth: 126, maxHeight: 128)
+                    Section {
+                        HStack {
+                            Image(.cocoaHeads)
+                                .resizable()
+                                .frame(maxWidth: 126, maxHeight: 128)
+                            Spacer()
+                            Image(.foundationModels)
+                                .resizable()
+                                .frame(maxWidth: 126, maxHeight: 128)
+                        }
+                        .frame(alignment: .center)
+                        .padding()
                     }
-                    .frame(alignment: .center)
-                    .padding()
-
-                    NavigationLink("Ask me anything") {
-                        AskMeAnythingView()
-                            .navigationTitle("Ask me Anything")
-                            .environment(AskMeAnythingEnvironment())
+                    
+                    Section("Just ask") {
+                        NavigationLink("Ask me anything") {
+                            AskMeAnythingView()
+                                .navigationTitle("Ask me Anything")
+                                .environment(AskMeAnythingEnvironment())
+                        }
+                        
+                        NavigationLink("Ask ChatGPT") {
+                            AskChatGPTView()
+                                .navigationTitle("Ask ChatGPT")
+                                .environment(AskChatGPTEnvironment())
+                        }
                     }
-
-                    NavigationLink("Ask ChatGPT") {
-                        AskChatGPTView()
-                            .navigationTitle("Ask ChatGPT")
-                            .environment(AskChatGPTEnvironment())
-                    }
-
                 }
                 .background(.ultraThinMaterial)
             }

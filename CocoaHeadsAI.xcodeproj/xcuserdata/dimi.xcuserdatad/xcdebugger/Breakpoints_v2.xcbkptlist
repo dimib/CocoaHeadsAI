@@ -36,5 +36,129 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFFD8F43-47FE-46F0-82FA-42B89F369B2F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CocoaHeadsAI/Domain/Guide/HamburgGuideTool.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "call(arguments:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DFFD8F43-47FE-46F0-82FA-42B89F369B2F - b13c0c87647fec6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CocoaHeadsAI.HamburgGuideTool.call(arguments: CocoaHeadsAI.HamburgGuideTool.Arguments) async throws -&gt; CocoaHeadsAI.HamburgGuideLocation"
+                  moduleName = "CocoaHeadsAI.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimi/_devel/Swift/CocoaHeads/CocoaHeadsAI/CocoaHeadsAI/Domain/Guide/HamburgGuideTool.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24">
+               </Location>
+               <Location
+                  uuid = "DFFD8F43-47FE-46F0-82FA-42B89F369B2F - 9449e91a3e8e80a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CocoaHeadsAITests.HamburgGuideTool.call(arguments: CocoaHeadsAITests.HamburgGuideTool.Arguments) async throws -&gt; CocoaHeadsAITests.HamburgGuideLocation"
+                  moduleName = "CocoaHeadsAITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimi/_devel/Swift/CocoaHeads/CocoaHeadsAI/CocoaHeadsAI/Domain/Guide/HamburgGuideTool.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BCC91A0-2CC0-41BC-9B01-6E60E7F5773F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CocoaHeadsAITests/CocoaHeadsAITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "MyStruct"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1625B8A4-6EC6-44DD-8461-D5B19965640C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CocoaHeadsAITests/CocoaHeadsAITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "example()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1625B8A4-6EC6-44DD-8461-D5B19965640C - 49d6f9c9e87a3f44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CocoaHeadsAITests.CocoaHeadsAITests.example() async throws -&gt; ()"
+                  moduleName = "CocoaHeadsAITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimi/_devel/Swift/CocoaHeads/CocoaHeadsAI/CocoaHeadsAITests/CocoaHeadsAITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27">
+               </Location>
+               <Location
+                  uuid = "1625B8A4-6EC6-44DD-8461-D5B19965640C - 49d6f9c9e87a3f44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CocoaHeadsAITests.CocoaHeadsAITests.example() async throws -&gt; ()"
+                  moduleName = "CocoaHeadsAITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimi/_devel/Swift/CocoaHeads/CocoaHeadsAI/CocoaHeadsAITests/CocoaHeadsAITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F81692AD-0425-483E-9A6D-E833C0462BCE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CocoaHeadsAITests/OpenAITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "testOpenAI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

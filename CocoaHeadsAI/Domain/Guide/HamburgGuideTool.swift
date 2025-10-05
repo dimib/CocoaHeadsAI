@@ -13,10 +13,10 @@ final class HamburgGuideTool: Tool {
     let name = "hamburgGuideTool"
     let description = "Search locations in Hamburg"
     
-    @Generable
+    @Generable(description: "Locations to find")
     struct Arguments {
+        @Guide(description: "Location type")
         let type: String
-        let name: String
     }
 
     @MainActor
