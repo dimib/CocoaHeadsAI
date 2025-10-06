@@ -38,11 +38,26 @@ struct ContentView: View {
                                 .navigationTitle("Ask me Anything")
                                 .environment(AskMeAnythingEnvironment())
                         }
-                        
+                    }
+                    
+                    Section("Use ChatGPT") {
                         NavigationLink("Ask ChatGPT") {
                             AskChatGPTView()
                                 .navigationTitle("Ask ChatGPT")
                                 .environment(AskChatGPTEnvironment())
+                        }
+
+                        NavigationLink("Find musical scale") {
+                            OpenAIScaleView()
+                                .navigationTitle("Scale finder")
+                                .environment(OpenAIScaleEnvironment())
+                        }
+                    }
+                    
+                    Section("Something completelly different") {
+                        NavigationLink("Image Playground") {
+                            ImagePlaygroundView()
+                                .navigationTitle("Image Playground")
                         }
                     }
                 }

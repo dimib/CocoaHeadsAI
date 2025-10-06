@@ -52,6 +52,7 @@
 				Model/HamburgGuideDayPlan.swift,
 				Model/HamburgGuideLocation.swift,
 				Model/HamburgLocations.swift,
+				Model/Scale.swift,
 				Model/TripPlannerJourney.swift,
 			);
 			target = 36CCD32A2E8FC4C40029D597 /* CocoaHeadsAITests */;

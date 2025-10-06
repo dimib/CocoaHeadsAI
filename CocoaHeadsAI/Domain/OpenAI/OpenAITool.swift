@@ -15,7 +15,7 @@ final class OpenAITool: Tool {
     let name = "openAITool"
     let description = "Call OpenAI API."
     
-    // private let apikey = ""
+    private let apikey = "sk-"
     private let baseURL = URL(string: "https://api.openai.com/v1")! // URL(string: "http://localhost:1234/v1")!
     let client: OpenAIClient
 

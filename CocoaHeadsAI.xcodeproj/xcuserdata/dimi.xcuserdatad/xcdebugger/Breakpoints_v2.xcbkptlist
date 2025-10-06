@@ -39,52 +39,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "DFFD8F43-47FE-46F0-82FA-42B89F369B2F"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CocoaHeadsAI/Domain/Guide/HamburgGuideTool.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
-            landmarkName = "call(arguments:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "DFFD8F43-47FE-46F0-82FA-42B89F369B2F - b13c0c87647fec6f"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(1) suspend resume partial function for CocoaHeadsAI.HamburgGuideTool.call(arguments: CocoaHeadsAI.HamburgGuideTool.Arguments) async throws -&gt; CocoaHeadsAI.HamburgGuideLocation"
-                  moduleName = "CocoaHeadsAI.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dimi/_devel/Swift/CocoaHeads/CocoaHeadsAI/CocoaHeadsAI/Domain/Guide/HamburgGuideTool.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24">
-               </Location>
-               <Location
-                  uuid = "DFFD8F43-47FE-46F0-82FA-42B89F369B2F - 9449e91a3e8e80a5"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(1) suspend resume partial function for CocoaHeadsAITests.HamburgGuideTool.call(arguments: CocoaHeadsAITests.HamburgGuideTool.Arguments) async throws -&gt; CocoaHeadsAITests.HamburgGuideLocation"
-                  moduleName = "CocoaHeadsAITests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dimi/_devel/Swift/CocoaHeads/CocoaHeadsAI/CocoaHeadsAI/Domain/Guide/HamburgGuideTool.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "1BCC91A0-2CC0-41BC-9B01-6E60E7F5773F"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -154,9 +108,161 @@
             filePath = "CocoaHeadsAITests/OpenAITests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
             landmarkName = "testOpenAI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58503F62-E467-4609-87B0-D1FF59077582"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CocoaHeadsAITests/OpenAITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "testOpenAI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37FB10FB-9F5B-44A9-B2A3-29973212D2CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CocoaHeadsAITests/OpenAITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "testOpenAI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99802091-F7BA-4662-99B5-9F39A4DDD887"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CocoaHeadsAI/App/ImagePlayground/ImagePlaygroundView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6904A584-2CA0-4EF6-B985-4FA74F6C3AF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CocoaHeadsAI/App/ImagePlayground/ImagePlaygroundView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6904A584-2CA0-4EF6-B985-4FA74F6C3AF9 - cd3f883bf3380c68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #4 @Sendable () async -&gt; () in CocoaHeadsAI.ImagePlaygroundView.body.getter : some"
+                  moduleName = "CocoaHeadsAI.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimi/_devel/Swift/CocoaHeads/CocoaHeadsAI/CocoaHeadsAI/App/ImagePlayground/ImagePlaygroundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54">
+               </Location>
+               <Location
+                  uuid = "6904A584-2CA0-4EF6-B985-4FA74F6C3AF9 - 73b0ad343cb08f21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for closure #4 @Sendable () async -&gt; () in CocoaHeadsAI.ImagePlaygroundView.body.getter : some"
+                  moduleName = "CocoaHeadsAI.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimi/_devel/Swift/CocoaHeads/CocoaHeadsAI/CocoaHeadsAI/App/ImagePlayground/ImagePlaygroundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54">
+               </Location>
+               <Location
+                  uuid = "6904A584-2CA0-4EF6-B985-4FA74F6C3AF9 - 9aaafcccbcfa7896"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #4 @Sendable () async -&gt; () in CocoaHeadsAI.ImagePlaygroundView.body.getter : some"
+                  moduleName = "CocoaHeadsAI.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimi/_devel/Swift/CocoaHeads/CocoaHeadsAI/CocoaHeadsAI/App/ImagePlayground/ImagePlaygroundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54">
+               </Location>
+               <Location
+                  uuid = "6904A584-2CA0-4EF6-B985-4FA74F6C3AF9 - 9aaafcccbcfa7896"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #4 @Sendable () async -&gt; () in CocoaHeadsAI.ImagePlaygroundView.body.getter : some"
+                  moduleName = "CocoaHeadsAI.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimi/_devel/Swift/CocoaHeads/CocoaHeadsAI/CocoaHeadsAI/App/ImagePlayground/ImagePlaygroundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54">
+               </Location>
+               <Location
+                  uuid = "6904A584-2CA0-4EF6-B985-4FA74F6C3AF9 - 6019d19c79bcd718"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for closure #4 @Sendable () async -&gt; () in CocoaHeadsAI.ImagePlaygroundView.body.getter : some"
+                  moduleName = "CocoaHeadsAI.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimi/_devel/Swift/CocoaHeads/CocoaHeadsAI/CocoaHeadsAI/App/ImagePlayground/ImagePlaygroundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "382DCB8D-97D3-418E-B499-8E513759790F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CocoaHeadsAITests/HamburgGuideTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "simpleStuff()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

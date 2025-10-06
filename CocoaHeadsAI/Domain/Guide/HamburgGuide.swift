@@ -12,8 +12,8 @@ final class HamburgGuide {
     /// Load all items for the specified `HamburgLocationType`
     /// - parameter type: Item type to load (restaurant, concert, ...)
     /// - returns all items of this type or `nil`, if there is data for this type
-    func loadItems(type: HamburgLocationType) -> [HamburgLocationItem]? {
-        let items = loadItems(name: type.rawValue)
+    func loadItems(from bundle: Bundle = .main, type: HamburgLocationType) -> [HamburgLocationItem]? {
+        let items = loadItems(from: bundle, name: type.rawValue)
         return items.isEmpty ? nil : items
     }
     

@@ -13,16 +13,22 @@ final class HamburgGuideTool: Tool {
     let name = "hamburgGuideTool"
     let description = "Search locations in Hamburg"
     
+    private let bundle: Bundle
+    
     @Generable(description: "Locations to find")
     struct Arguments {
         @Guide(description: "Location type")
         let type: String
     }
+    
+    init(_ bundle: Bundle = .main) {
+        self.bundle = bundle
+    }
 
     @MainActor
     func call(arguments: Arguments) async throws -> HamburgGuideLocation {
         guard let type = HamburgLocationType(rawValue: arguments.type),
-              let locations = HamburgGuide().loadItems(type: type) else {
+              let locations = HamburgGuide().loadItems(from: bundle, type: type) else {
             throw HamburgLocationsLoadingError.fileNotFound
         }
         

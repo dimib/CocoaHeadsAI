@@ -10,9 +10,11 @@ import FoundationModels
 import Testing
 import DBOpenAIClient
 
+// https://platform.openai.com/docs/guides/structured-outputs
+
 struct OpenAITests {
     
-    // private let apikey = ""
+    private let apikey = "sk-"
     private let baseURL = URL(string: "https://api.openai.com/v1")! // URL(string: "http://localhost:1234/v1")!
     
     @Generable(description: "Scale definition")
@@ -20,7 +22,7 @@ struct OpenAITests {
         @Guide(description: "Name of the Scale")
         let name: String
         @Guide(description: "Name of the chords", .count(8))
-        let chords: [Chord]
+        let chords: [String]
     }
 
     @Generable(description: "Chord definition")
@@ -37,6 +39,8 @@ struct OpenAITests {
     @Test func testOpenAI() async throws {
         
         let schema = try String(data: JSONEncoder().encode(Chord.generationSchema), encoding: .utf8)
+        
+        
         assert(schema != nil)
         
         let client = OpenAIClient(baseUrl: baseURL, model: .gpt4o, apiKey: apikey)
@@ -45,12 +49,18 @@ struct OpenAITests {
                                                 .init(role: "system", content: "You are an experienced music teacher and can help with music theory questions"),
                                                 .init(role: "user", content: "I need the chords for an C major scale")
                                             ],
-                                            text: OpenAIText(format: OpenAIFormat(type: "json_schema", name: "chord_scales",
-                                                                                  schema: Scale.generationSchema, strict: true)))
-        
+                                            text: OpenAIText(format: OpenAIFormat(type: "json_schema",
+                                                                                  name: "chord_scales",
+                                                                                  schema: Scale.generationSchema,
+                                                                                  strict: true)))
         
         let response: OpenAIResponsesResponse = try await client.request(request: request, path: .responses)
+        
+        let generatedContent = try GeneratedContent(json: response.output.first!.content.first!.text)
+        let scale = try Scale(generatedContent)
+
         let scales: [Scale]? = try response.decode(as: Scale.self)
+
         print("💁 \(String(describing: scales))")
     }
 
