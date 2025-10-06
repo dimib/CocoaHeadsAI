@@ -13,9 +13,8 @@ import DBOpenAIClient
 // https://platform.openai.com/docs/guides/structured-outputs
 
 struct OpenAITests {
-    
-    private let apikey = "sk-"
-    private let baseURL = URL(string: "https://api.openai.com/v1")! // URL(string: "http://localhost:1234/v1")!
+
+    let openAIKey: OpenAIKey = OpenAPIKeyReal()
     
     @Generable(description: "Scale definition")
     struct Scale: Decodable {
@@ -43,7 +42,7 @@ struct OpenAITests {
         
         assert(schema != nil)
         
-        let client = OpenAIClient(baseUrl: baseURL, model: .gpt4o, apiKey: apikey)
+        let client = OpenAIClient(baseUrl: openAIKey.baseURL, model: .gpt4o, apiKey: openAIKey.apiKey)
         let request = OpenAIResponsesRequest(model: OpenAIDefines.Model.gpt4o.rawValue,
                                             input: [
                                                 .init(role: "system", content: "You are an experienced music teacher and can help with music theory questions"),
