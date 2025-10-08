@@ -26,6 +26,7 @@ import Playgrounds
         "Answer with long and unclear sentences"
         "Say a lot without saying anything clear."
     }
+    
     let session = LanguageModelSession(model: model, instructions: instructions)
-    let result = try await session.respond(to: "Write a talk: Why are E-Cards not the future. Answer in German.")
+    let result = try await session.respond(to: "Write a talk: Why are E-Cars not the future. Answer in German.")
 }

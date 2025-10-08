@@ -33,14 +33,11 @@ struct Chord: Decodable {
 @Observable
 final class OpenAIScaleTool: Tool {
     let name = "openAIScaleTool"
-    let description = "Use OpenAI for requestion scale chords."
+    let description = "Request chords of a scale."
 
-    let openAIKey: OpenAIKey = OpenAPIKeyReal()
-    let client: OpenAIClient
+    let openAIKey: OpenAIKey = OpenAIKeyReal()
 
     init() {
-        let client = OpenAIClient(baseUrl: openAIKey.baseURL, model: .gpt35turbo, apiKey: openAIKey.apiKey)
-        self.client = client
     }
     
     @Generable
@@ -58,7 +55,7 @@ final class OpenAIScaleTool: Tool {
         let request = OpenAIResponsesRequest(model: OpenAIDefines.Model.gpt4o.rawValue,
                                             input: [
                                                 .init(role: "system", content: "You are an experienced music teacher and can help with music theory questions"),
-                                                .init(role: "user", content: "I need the chords for an \(scaleName) scale")
+                                                .init(role: "user", content: "I need the chords for a \(scaleName) scale")
                                             ],
                                             text: OpenAIText(format: OpenAIFormat(type: "json_schema",
                                                                                   name: "chord_scales",

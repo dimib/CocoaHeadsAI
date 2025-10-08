@@ -14,14 +14,14 @@ import DBOpenAIClient
 
 struct OpenAITests {
 
-    let openAIKey: OpenAIKey = OpenAPIKeyReal()
+    let openAIKey: OpenAIKey = OpenAIKeyReal()
     
     @Generable(description: "Scale definition")
     struct Scale: Decodable {
         @Guide(description: "Name of the Scale")
         let name: String
         @Guide(description: "Name of the chords", .count(8))
-        let chords: [String]
+        let chords: [Chord]
     }
 
     @Generable(description: "Chord definition")
@@ -36,12 +36,7 @@ struct OpenAITests {
     }
 
     @Test func testOpenAI() async throws {
-        
-        let schema = try String(data: JSONEncoder().encode(Chord.generationSchema), encoding: .utf8)
-        
-        
-        assert(schema != nil)
-        
+                
         let client = OpenAIClient(baseUrl: openAIKey.baseURL, model: .gpt4o, apiKey: openAIKey.apiKey)
         let request = OpenAIResponsesRequest(model: OpenAIDefines.Model.gpt4o.rawValue,
                                             input: [

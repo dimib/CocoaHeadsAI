@@ -47,20 +47,15 @@ struct ImagePlaygroundView: View {
         .task(id: imagePrompt) {
             guard !imagePrompt.isEmpty else { return }
             do {
-                isThinking = true
                 let imageGenerator = try await ImageCreator()
-//                imageGenerator.availableStyles.forEach { print($0) }
-//                styles = imageGenerator.availableStyles.map { $0.id }
                 for try await generatedImage in imageGenerator.images(for: [.text(imagePrompt)], style: .animation, limit: 1) {
                     images.append(generatedImage.cgImage)
-                    isThinking = false
                 }
             } catch {
                 // Handle initialization errors from ImageCreator (e.g., .notSupported)
                 print("Failed to initialize ImageCreator:", error)
                 self.error = error
                 isShowingError = true
-                isThinking = false
             }
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
