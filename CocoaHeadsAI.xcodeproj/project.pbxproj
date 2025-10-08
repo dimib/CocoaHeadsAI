@@ -53,7 +53,6 @@
 				Model/HamburgGuideLocation.swift,
 				Model/HamburgLocations.swift,
 				Model/OpenAIKey.swift,
-				Model/OpenAIKeyReal.swift,
 				Model/Scale.swift,
 				Model/TripPlannerJourney.swift,
 			);
